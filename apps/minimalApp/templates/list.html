@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!-- HTML 고정, 실험선반 목록  --> 
+<html lang="ko">
+    <head>
+        <meta charset=""utf-8"/>       
+        <link rel="stylesheet" href="./style.css">  
+        <title>ICPA 실험기구 검색</title>           
+    </head>    
+    <body>
+        <table class="table_layout">
+            <!-- 상단 베터리 영역 -->         
+            <tr>  
+                <td>
+                <div class="i-phone-x-or-newer">
+                    <img src="./img/battery0.svg" />
+                    <img/src="./img/wifi0.svg" />
+                    <img src="./img/mobile-signal0.svg" />
+                    <img src="./img/left-side0.svg" />
+                </div>
+                </td>
+            </tr>
+            <!-- 검색영역 (고정)-->
+            <tr>
+                <td><br/> 
+                    <!-- list_result.html 은 프로그램된 파이썬 파일명으로 변경 해야 함. -->    
+                    <!-- 변수명 shelf로 선반 번호 넘겨 받고, list_result 에서 shelf 값을 입력값으로 결과 출력 -->              
+                    <div class="box_list"><a href="list_result.html?shelf=1" style="text-decoration:none;">1번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=2" style="text-decoration:none;">2번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=3" style="text-decoration:none;">3번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=4" style="text-decoration:none;">4번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=5" style="text-decoration:none;">5번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=6" style="text-decoration:none;">6번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=7" style="text-decoration:none;">7번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=8" style="text-decoration:none;">8번째 선반</a></div><br/>
+                    <div class="box_list"><a href="list_result.html?shelf=9" style="text-decoration:none;">9번째 선반</a></div><br/>
+                </td>
+            </tr>   
+            <!-- 툴바 영역 (고정) -->
+          <tr></br><!--간격 -->  
+            <td><div class="tab-bar">             
+                <div class="tab-bar-item1">
+                  <a href="index.html"><img src="./img/home0.svg" /></a>
+                </div>
+                <div class="tab-bar-item2">
+                  <a href="page1.html"><img src="./img/search2.svg" /></a>
+                </div>
+                <div class="tab-bar-item3">
+                  <a href="camera.html"><img src="./img/camera0.svg" /></a>
+                </div>
+                <div class="tab-bar-item4">
+                  <a href="bbs.html"><img src="./img/favorites0.svg" /></a>
+                </div>
+                <div class="tab-bar-item5">
+                  <a href="list.html"><img src="./img/iconmonstr-menu-1-10.svg" /></a>
+                </div>
+              </div></td>
+          </tr>  
+        </table>
+    </body>
+</html>

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<!-- HTML 고정 화면입니다. 오늘의 실험내용등 변경 없을 것임으로 그냥 사용합니다.   --> 
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href= "../static/style.css"/>  
+        <title>ICPA 실험기구 검색</title>
+    </head>    
+    <body>
+      <table class="table_layout">  
+        <!-- 상단 베터리 영역 -->         
+        <tr>  
+          <td>
+            <div class="i-phone-x-or-newer">
+              <img src="../static/img/battery0.svg" />
+              <img src="../static/img/wifi0.svg" />
+              <img src="../static/img/mobile-signal0.svg" />
+              <img src="../static/img/left-side0.svg" />
+            </div>
+          </td>
+        </tr>
+        <!-- 검색영역 (고정)-->         
+          <tr>  
+              <td>
+                <form action="/home" method="post">      <!-- 파이썬으로 프로그램하고 action링크 변경 하세요. -->            
+                  <input class="my-input" type="text" name="search" placeholder="Search.." >     <!--input 변수명은 "search" 입니다. -->        
+                  <input type="submit" value="검색">
+                </form>              
+              </td>
+          </tr>
+          <!-- 앱사용 설명서 내용 -->
+          <tr> 
+            <td>  
+              <table class="rectangle">
+                <tr>
+                  <td>
+                    <div class="div_title">앱 사용 설명서 (도움말)</div> 
+                    <br />
+                    <div class="div_text">                      
+                    궁금한 실험 기구가 있다면 검색해주세요!<br />
+                    카메라를 통한 검색도 가능해요!<br />
+                    실험 기구를 활용한 실험도 확인할 수 있어요! <br />
+                    </div>
+                    <br />
+                  </td> 
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- 오늘의 실험 내용  -->
+          <tr> 
+            <td>
+              <table class="rectangle">
+                <tr>
+                  <td>
+                    <div class="div_title">오늘의 실험</div>
+                    <ol class="div_list">
+                      <li>
+                        화산 모형 실험
+                        <br />
+                        -화산의 분출 과정을 모형을 통해 재현해보자.
+                        <br />
+                        -화학 반응을 통해 이산화탄소가 생성되는 것을 관찰하자.
+                      </li>
+                      <li>
+                        전도성 물질 실험
+                        <br />
+                        -다양한 물질의 전도성을 테스트해보자.
+                        <br />
+                        -전기가 통하는 물질과 그렇지 않은 물질을 구분해보자.
+                      </li>
+                    </ol>
+                  </td> 
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- 실험 참고 사이트 -->
+          <tr>
+            <td>
+              <table class="rectangle">
+                <tr>
+                  <td>
+                    <div class="div_title">실험 참고 사이트</div>
+                    <ol class="div_list">
+                      <li><a href="https://www.sciencebuddies.org/" target="_blank">Science Buddies</a></li>
+                      <li><a href="https://www.education.com/" target="_blank">Education.com</li></a></li>                      
+                      <li><a href="https://www.exploratorium.edu/" target="_blank">Exploratorium</li></a></li>
+                    </ol>
+                  </td> 
+                </tr>
+              </table>
+            </td>
+          </tr> 
+          <!-- 툴바 영역 (고정) -->
+          <tr></br><!--간격 -->  
+            <td><div class="tab-bar">             
+                <div class="tab-bar-item1">
+                  <a href="/"><img src="../static/img/home0.svg" /></a>
+                </div>
+                <div class="tab-bar-item2">
+                  <a href="home"><img src="../static/img/search2.svg" /></a>
+                </div>
+                <div class="tab-bar-item3">
+                  <a href="camera"><img src="../static/img/camera0.svg" /></a>
+                </div>
+                <div class="tab-bar-item4">
+                  <a href="bbs"><img src="../static/img/favorites0.svg" /></a>
+                </div>
+                <div class="tab-bar-item5">
+                  <a href="list"><img src="../static/img/iconmonstr-menu-1-10.svg" /></a>
+                </div>
+              </div></td>
+          </tr>   
+        </table>
+    </body>
+</html>

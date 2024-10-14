@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!-- Flask의 html templet, 프로그래밍 하고, 결과값을 페이지에 출력하면 됩니다. 주석 달아놨어요.  --> 
+<html lang="ko">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="../static/style.css">  
+        <title>ICPA 실험기구 검색</title>           
+    </head>    
+    <body>
+      <table class="table_layout">  
+        <!-- 상단 베터리 영역 -->         
+        <tr>  
+          <td>
+            <div class="i-phone-x-or-newer">
+              <img src="../static/img/battery0.svg" />
+              <img src="../static/img/wifi0.svg" />
+              <img src="../static/img/mobile-signal0.svg" />
+              <img src="../static/img/left-side0.svg" />
+            </div>
+          </td>
+        </tr>
+        <!-- 검색영역 (고정)-->         
+          <tr>  
+              <td>
+                <form action="result.html" method="post">      <!-- 파이썬으로 프로그램하고 action링크 변경 하세요. -->  
+                  <!--input 변수명은 "search" 입니다./ placeholder값은 검색어로 변경 하세요 -->          
+                  <input class="my-input" type="text" id="search" placeholder="플라스크" >             
+                  <input type="submit" value="검색">
+                </form>              
+              </td>
+          </tr>
+          <!-- 검색 결과 (그림/위치) -->
+          <tr> 
+            <td>                
+               <table> 
+                  <tr>
+                    <td class="rectangle2">
+                      <!-- 이미지 결과값 불려와서 출력 -->
+                      <img class="div_image" src="https://m.moascience.com/web/product/big/mr0008.jpg" /><br/> 
+                       <!-- 검색어(변수 search값) 출력 -->
+                      <div class="div_text2">둥근바닥 플라스크</div>      
+                    </td>
+                    <td class="rectangle2">
+                      <!-- 실험도구 위치 결과값 불려와서 출력 -->
+                      <div class="div_text">
+                        수량:1 <br/>  <!-- 결과값: 잔여량  출력 -->
+                        위치: 3층 화학실험실 <br/>  <!-- 결과값: 실험실  출력 -->
+                        (2번째 선반, 3번째 칸) <br/>  <!-- 결과값: 선반위치  출력 -->
+                        담당T: 민용기T <br/>  <!-- 결과값: 선반위치  출력 -->
+                      </div>
+                    </td>
+                  </tr>
+                </table>
+            </td>                    
+          </tr>
+          <!-- 검색결과 설명  -->
+          <tr> 
+            <td>
+              <table class="rectangle">
+                <tr>
+                  <td>
+                    <div class="div_text2">
+                    플라스크(flask)는 자연과학 실험실에서 자주 쓰이는 실험기구 중 하나이다. 위
+                    사진은 여러 가지 플라스크와 비커를 함께 찍은 사진으로, 왼쪽에서 두 번째와 세
+                    번째 기구는 플라스크가 아니라 비커에 속한다. 주로 가열이나 교반을 위해
+                    액체나 고체를 담기 위해 쓰는 기구로, 비커와 기능은 비슷하지만 형태적으로 큰
+                    차이점이 존재한다. 그리고 형태에 따라 용도도 세부적으로 분류된다.
+                    <br />
+                    (출처 : 나무위키)
+                    </div>
+                  </td> 
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <!-- 관련실험 -->
+          <tr>
+            <td>
+              <table class="rectangle">
+                <tr>
+                  <td>
+                    <div class="div_title">관련실험</div>
+                    <ol class="div_list">
+                      <a href="https://www.youtube.com/" target="_blank">FIND YOUR COURAGE (youtube.com)</a>                     
+                    </ol>
+                  </td> 
+                </tr>
+              </table>
+            </td>
+          </tr> 
+          <!-- 툴바 영역 (고정) -->
+          <tr></br><!--간격 -->  
+            <td><div class="tab-bar">             
+                <div class="tab-bar-item1">
+                  <a href="index.html"><img src="../static/img/home0.svg" /></a>
+                </div>
+                <div class="tab-bar-item2">
+                  <a href="page1.html"><img src="../static/img/search2.svg" /></a>
+                </div>
+                <div class="tab-bar-item3">
+                  <a href="camera.html"><img src="../static/img/camera0.svg" /></a>
+                </div>
+                <div class="tab-bar-item4">
+                  <a href="bbs.html"><img src="../static/img/favorites0.svg" /></a>
+                </div>
+                <div class="tab-bar-item5">
+                  <a href="list.html"><img src="../static/img/iconmonstr-menu-1-10.svg" /></a>
+                </div>
+              </div></td>
+          </tr>   
+        </table>
+    </body>
+</html>

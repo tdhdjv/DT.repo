@@ -1,20 +1,12 @@
-<!DOCTYPE html>
+{% extends "layout.html" %}
+
+{% block title %}ICPA 실험기구 검색{% endblock %}
+{% block content %}
 <!-- 카메라 페이지 입니다. 파이썬 프로그램 필요하고, html은 template으로 사용합니다.   --> 
- <!-- 파이썬 구현에 따라 layout이 달라질수 있습니다. -->
-<html lang="ko">
-    <head>
-        <meta charset="utf-8"/>
-        <link rel="stylesheet" href="../static/style.css">  
-        <title>ICPA 실험기구 검색</title>    
-        <style>
-            img { display : block;  margin : auto; }            
-        </style>    
-    </head>    
-    <body>
-        <table class="table_layout">
-            <tr>
-                <td><img src="../static/img/camera.jpg" style="width: 300px;"></td>
-            </tr>    
-        </table>
-    </body>
-</html>
+
+<table class="table_layout">
+    <tr>
+        <td><img class = 'camera_img' src="../static/img/camera.jpg"></td>
+    </tr>    
+</table>
+{% endblock %}

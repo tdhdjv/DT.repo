@@ -1,0 +1,662 @@
+index,name,shelf,room,no,inventory,img,ref_video,text
+1,시험관,up,화학실,1,150,https://www.biozoa.co.kr/data/goods/1/2020/07/462_tmp_7f6ec49d1f2256ebc166a0db790fe49f7842list1.jpg,https://youtu.be/hoEa8Lqwbys?feature=shared,간단한 화학반응에 주로 사용하며 시험관은 밑이 둥글기 때문에 시험관대에 꽂아 놓는 것이 안전하다.
+2,시험관대,up,화학실,1,16,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201903/e51bcbfe1f339d1606b86a138799217c.jpg,https://youtu.be/hoEa8Lqwbys?feature=shared,간단한 화학반응에 주로 사용하며 시험관은 밑이 둥글기 때문에 시험관대에 꽂아 놓는 것이 안전하다.
+3,스탠드,up,화학실,1,13,https://m.korearocket.co.kr/web/product/big/201902/0104066f08b0384418246abf69e33a29.jpg,https://www.youtube.com/watch?v=EdalR4YR6Gc,실험기구류를 지지하는 데 사용하다.
+4,흡인여과기,up,화학실,2,3,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/oo916.png,https://www.youtube.com/watch?v=17xy5-g22hI,"작은 구멍이 많이 둘린 받침판에 거름종이를 넣고 용매를 조금 부어 적신 후, 깔때기를 감압 플라스크 위에 놓고 여과시킨다."
+5,막자사발(대),up,화학실,2,24,https://cafe24.poxo.com/ec01/kwonkkt2/0jJurf5+JqL2mXn6P+LWO8Nj/aECBXMgvotdXaB5cjJ5W2SxoXxEUAoQkCPFpH9Ngwcd1z79kzUR2KNKKnffZw==/_/web/product/big/kwonkkt2_1227.jpg,https://www.youtube.com/watch?v=mRRuYzD4wxQ,고체시료를 분쇄하거나 혼합할 때 쓰는 기구이다.
+6,막자사발(소),up,화학실,2,20,https://cafe24.poxo.com/ec01/kwonkkt2/0jJurf5+JqL2mXn6P+LWO8Nj/aECBXMgvotdXaB5cjJ5W2SxoXxEUAoQkCPFpH9Ngwcd1z79kzUR2KNKKnffZw==/_/web/product/big/kwonkkt2_1227.jpg,https://www.youtube.com/watch?v=mRRuYzD4wxQ,고체시료를 분쇄하거나 혼합할 때 쓰는 기구이다.
+7,막자,up,화학실,2,40,https://cafe24.poxo.com/ec01/kwonkkt2/0jJurf5+JqL2mXn6P+LWO8Nj/aECBXMgvotdXaB5cjJ5W2SxoXxEUAoQkCPFpH9Ngwcd1z79kzUR2KNKKnffZw==/_/web/product/big/kwonkkt2_1227.jpg,https://www.youtube.com/watch?v=mRRuYzD4wxQ,고체시료를 분쇄하거나 혼합할 때 쓰는 기구이다.
+8,증발접시,up,화학실,2,11,https://img.daihan-sci.com/sellerzone/00319/product/img/500/1_-7316705623268780146.jpg,https://www.youtube.com/watch?v=1DDMNrqS0aw,물질을 건조시킬 때 쓰는 장치이다.
+9,전자저울,up,화학실,2,10,https://hssci.co.kr/web/product/medium/sciencestarshop_18366.jpg,https://www.youtube.com/watch?v=3JW9p4gRBQY&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=4,시료의 무게를 잴 때 사용한다.
+10,알코올램프 삼발이,up,화학실,3,11,https://thumbnail7.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/d354/bff45582812b26861602daf7c746037f7430d47ecf8b5dff3cccfce4156e.jpg,https://www.youtube.com/watch?v=O4RArJZhBLc&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=8,알코올램프는 알코올을 연료로 사용하여 불꽃을 발생시키는 장치로 주로 실험실에서 열을 공급하는데 사용된다. 삼발이는 세 개의 다리로 지지되는 구조물이다.
+11,체,up,화학실,3,4,https://m.sunscience.co.kr/web/product/big/catalogue/4545.jpg,https://www.youtube.com/watch?v=QqxfwpUtEoQ&t=208s,고체와 액체를 분리하거나 고운 입자를 걸러내기 위해 사용하는 도구이다.
+12,전류측정기,up,화학실,3,6,https://img.danawa.com/prod_img/500000/818/390/img/21390818_1.jpg?_v=20230706165359,https://www.youtube.com/watch?v=OlPtlLG3uc0,전류측정기는 전기 회로 내의 전류의 세기를 측정하는 기기로 일반적으로 암페어 단위로 표시된다.
+13,핫플레이트,up,화학실,3,2,https://ngallery.co.kr/shopimages/gooworl114/mobile/9/2708139_represent?1714456201,https://www.youtube.com/watch?v=tcPKlnc49hY&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=7,핫플레이트는 전기로 열을 발생시켜 물체를 가열하는 평평한 표면으로 주로 실험실이나 주방에서 사용된다.
+14,깔때기(대),up,화학실,4,19,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/ij714.jpg,https://www.youtube.com/watch?v=BcUEQQLX95Y,깔대기는 액체나 고체를 쉽게 붓거나 전이할 수 있도록 돕는 도구로 일반적으로 넓은 입구와 좁은 출구를 가진 구조이다.
+15,깔때기(중),up,화학실,4,13,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/ij714.jpg,https://www.youtube.com/watch?v=BcUEQQLX95Y,깔대기는 액체나 고체를 쉽게 붓거나 전이할 수 있도록 돕는 도구로 일반적으로 넓은 입구와 좁은 출구를 가진 구조이다.
+16,깔때기(소),up,화학실,4,9,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/ij714.jpg,https://www.youtube.com/watch?v=BcUEQQLX95Y,깔대기는 액체나 고체를 쉽게 붓거나 전이할 수 있도록 돕는 도구로 일반적으로 넓은 입구와 좁은 출구를 가진 구조이다.
+17,깔때기대,up,화학실,4,16,https://cafe24.poxo.com/ec01/instrument8513/qpzoPtAfsyswz+JPAFwof3K42bKXBiJ1Z0HnX/FToLyxHn/wsxnGxU+mOvp2xx4WBbmORmgE3YI9kLzsOlp5dw==/_/web/product/big/201906/7061b2ff2460abaeaa507e4b153c2618.jpg,https://www.youtube.com/watch?v=BcUEQQLX95Y,깔대기는 액체나 고체를 쉽게 붓거나 전이할 수 있도록 돕는 도구로 일반적으로 넓은 입구와 좁은 출구를 가진 구조이다.
+18,매스플라스크 250ml,up,화학실,5,11,https://cafe24.poxo.com/ec01/labmarket/3fR5GZuVOVYSchAHkfrz5xzbTxE7oqyRICY+RLu9q2pQbUpfT2qvIGZbIMEwMNMbX96nJexLqN76Uu9rwXvPWg==/_/web/product/extra/big/201801/2080_shop1_490014.jpg,https://www.youtube.com/watch?v=hrvXuX0Ow3s,"액체의 부피를 측정할 때 사용, 용기에 눈금이 표시되어 있어 일정 용량만 픅정할 수 있다."
+19,매스플라스크 500ml,up,화학실,5,9,https://img.daihan-sci.com/sellerzone/00383/product/img/500/1_-7208061138031412727.jpg,https://www.youtube.com/watch?v=hrvXuX0Ow3s,"액체의 부피를 측정할 때 사용, 용기에 눈금이 표시되어 있어 일정 용량만 픅정할 수 있다."
+20,삼각플라스크 250ml,up,화학실,5,18,https://m.microgiene.com/web/product/big/202103/a2c6d1c749a062c180a1c6432b5ef3eb.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,"삼각플라스크는 넓은 바닥과 좁은 목을 가진 유리 용기로, 주로 실험실에 용액을 혼합하거나 가열하는데 사용한다."
+21,삼각플라스크 100ml,up,화학실,5,14,https://m.microgiene.com/web/product/big/202103/a2c6d1c749a062c180a1c6432b5ef3eb.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,"삼각플라스크는 넓은 바닥과 좁은 목을 가진 유리 용기로, 주로 실험실에 용액을 혼합하거나 가열하는데 사용한다."
+22,부흐너 플라스크,up,화학실,5,3,https://ae01.alicdn.com/kf/HTB1bZsXd7WE3KVjSZSyq6xocXXah.jpg_640x640Q90.jpg_.webp,https://www.youtube.com/watch?v=ZwER7qEuRow,부흐너 플라스크는 필터링과 같은 실험에서 고체와 액체를 분리하기 위해 사용되는 아래쪽이 평평한 유리 용기이다.
+23,페트리접시,up,화학실,6,14,https://p.turbosquid.com/ts-thumb/cM/99Cjnc/KTy8NQAZ/glass_green/jpg/1357491409/600x600/fit_q87/a83d8a6817508c177a9fcd86d765289d6055ee8c/glass_green.jpg,https://www.youtube.com/watch?v=9z_KyF4qBow,페트리 접시는 미생물 배양이나 화학 실험에 사용되는 평평한 원형의 유리 또는 플라스틱 용기이다. 일반적으로 뚜껑이 있다.
+24,메스실린더,up,화학실,6,6,https://officeahn.co.kr/shopimages/officeahn/mobile/1/178161_represent?1637794386,https://www.youtube.com/watch?v=7ewRaV5baik,"메스 실린더는 액체의 부피를 정확하게 측정하기 위해 사용하는 유리 또는 플라스틱 용기로, 측정 눈금이 새겨져 있어 정밀한 측정이 가능하다."
+25,집기병(대),up,화학실,7,9,https://cafe24.poxo.com/ec01/thewonscience/HOvhRhvOk+Cp2KY4JuusAnMbsJTQKwcP09iwEpvKlfYdoCDITk50GxcBghzPiKu0AOCLzLcK4+Li+aTBuoOsjg==/_/web/product/big/202307/ad52189858d2c465ab0df38e4ead4123.jpg,https://www.youtube.com/watch?v=IKVr8S-O2So,집기병은 기체를 모으는 유리로 된 병을 말한다. 공기보다 무거운 기체를 모을 때는 집기병을 똑바로 세워 모으고 공기보다 가벼운 기체를 모을 때는 집기병을 거꾸로 세워 모은다.
+26,집기병(소),up,화학실,7,10,https://cafe24.poxo.com/ec01/thewonscience/HOvhRhvOk+Cp2KY4JuusAnMbsJTQKwcP09iwEpvKlfYdoCDITk50GxcBghzPiKu0AOCLzLcK4+Li+aTBuoOsjg==/_/web/product/big/202307/ad52189858d2c465ab0df38e4ead4123.jpg,https://www.youtube.com/watch?v=IKVr8S-O2So,집기병은 기체를 모으는 유리로 된 병을 말한다. 공기보다 무거운 기체를 모을 때는 집기병을 똑바로 세워 모으고 공기보다 가벼운 기체를 모을 때는 집기병을 거꾸로 세워 모은다.
+27,비커 50ml,up,화학실,7,36,https://cafe24.poxo.com/ec01/hift/HOvhRhvOk+Cp2KY4JuusAoN2EteFYEcGPx1wX2XwdhYGcWpfDfm5aO5TuP9FLori9v9XBUSyqeDWti4e5nQZKQ==/_/web/product/big/201811/1b510e4da74a54213e9eb95e45ef1cde.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,비커는 액체를 측정하고 혼합하는 데 사용하는 원통형의 유리 또는 플라스틱 용기이다. 일반적으로 넓은 입구와 눈금이 있어 부피를 쉽게 확인할 수 있다.
+28,비커 100ml,up,화학실,7,25,https://cafe24.poxo.com/ec01/hift/HOvhRhvOk+Cp2KY4JuusAoN2EteFYEcGPx1wX2XwdhYGcWpfDfm5aO5TuP9FLori9v9XBUSyqeDWti4e5nQZKQ==/_/web/product/big/201811/1b510e4da74a54213e9eb95e45ef1cde.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,비커는 액체를 측정하고 혼합하는 데 사용하는 원통형의 유리 또는 플라스틱 용기이다. 일반적으로 넓은 입구와 눈금이 있어 부피를 쉽게 확인할 수 있다.
+29,비커 250ml,up,화학실,7,5,https://cafe24.poxo.com/ec01/hift/HOvhRhvOk+Cp2KY4JuusAoN2EteFYEcGPx1wX2XwdhYGcWpfDfm5aO5TuP9FLori9v9XBUSyqeDWti4e5nQZKQ==/_/web/product/big/201811/1b510e4da74a54213e9eb95e45ef1cde.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,비커는 액체를 측정하고 혼합하는 데 사용하는 원통형의 유리 또는 플라스틱 용기이다. 일반적으로 넓은 입구와 눈금이 있어 부피를 쉽게 확인할 수 있다.
+30,비커 300ml,up,화학실,7,7,https://cafe24.poxo.com/ec01/hift/HOvhRhvOk+Cp2KY4JuusAoN2EteFYEcGPx1wX2XwdhYGcWpfDfm5aO5TuP9FLori9v9XBUSyqeDWti4e5nQZKQ==/_/web/product/big/201811/1b510e4da74a54213e9eb95e45ef1cde.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,비커는 액체를 측정하고 혼합하는 데 사용하는 원통형의 유리 또는 플라스틱 용기이다. 일반적으로 넓은 입구와 눈금이 있어 부피를 쉽게 확인할 수 있다.
+31,비커 500ml,up,화학실,7,3,https://cafe24.poxo.com/ec01/hift/HOvhRhvOk+Cp2KY4JuusAoN2EteFYEcGPx1wX2XwdhYGcWpfDfm5aO5TuP9FLori9v9XBUSyqeDWti4e5nQZKQ==/_/web/product/big/201811/1b510e4da74a54213e9eb95e45ef1cde.jpg,https://www.youtube.com/watch?v=08Srw0_IY88,비커는 액체를 측정하고 혼합하는 데 사용하는 원통형의 유리 또는 플라스틱 용기이다. 일반적으로 넓은 입구와 눈금이 있어 부피를 쉽게 확인할 수 있다.
+32,뷰렛,up,화학실,8,11,https://lh3.googleusercontent.com/proxy/jfLHctJ24Im98NQnwSX4AY3QrQUE0xG2DotX777zjVrTrwmhqzCzPL48ZmNA6Tubm0rhyfc_kmoCXz-k_hdVvB9GM0kwW13RimkKfoaHy6XDNoOkwfpXSX7a6oinxeo3S9lR-uqDzmr5IX_9xQ,https://www.youtube.com/watch?v=iV9DIdclLwo&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=2,"뷰렛은 액체를 정확하게 측정하고 방출하는 데 사용되는 긴 관 형태의 유리 기구로, 주로 적정 실험에서 사용된다. 콕을 열고 닫으면서 내부의 액체를 조금씩 떨어뜨려 사용한다."
+33,피펫 1ml,up,화학실,8,7,https://m.bnfkorea.net/web/product/big/202207/69b8601c3f75ff41bdc6b9bf12c6a730.jpg,https://www.youtube.com/watch?v=t159gZLzc34&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=3,피펫은 액체를 정확하게 흡입하고 이동시키는데 사용되는 유리 또는 플라스틱 기구이다.
+34,피펫 2ml,up,화학실,8,5,https://m.bnfkorea.net/web/product/big/202207/69b8601c3f75ff41bdc6b9bf12c6a730.jpg,https://www.youtube.com/watch?v=t159gZLzc34&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=3,피펫은 액체를 정확하게 흡입하고 이동시키는데 사용되는 유리 또는 플라스틱 기구이다.
+35,피펫 5ml,up,화학실,8,4,https://m.bnfkorea.net/web/product/big/202207/69b8601c3f75ff41bdc6b9bf12c6a730.jpg,https://www.youtube.com/watch?v=t159gZLzc34&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=3,피펫은 액체를 정확하게 흡입하고 이동시키는데 사용되는 유리 또는 플라스틱 기구이다.
+36,피펫 10ml,up,화학실,8,16,https://m.bnfkorea.net/web/product/big/202207/69b8601c3f75ff41bdc6b9bf12c6a730.jpg,https://www.youtube.com/watch?v=t159gZLzc34&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=3,피펫은 액체를 정확하게 흡입하고 이동시키는데 사용되는 유리 또는 플라스틱 기구이다.
+37,스포이트 5ml,up,화학실,8,12,https://m.whatsoap.co.kr/web/product/extra/big/20210208/b9113ca14b6a87d48115843044e7072b.jpg,https://www.youtube.com/watch?v=dxsa2j1o2F4&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=5,"스포이트는 액체를 흡입하고 방출하는 데 사용되는 고무 또는 플라스틱 기구로, 주로 작은 양의 액체를 정밀하게 다루는 데 사용된다."
+38,스포이트 10ml,up,화학실,8,18,https://m.whatsoap.co.kr/web/product/extra/big/20210208/b9113ca14b6a87d48115843044e7072b.jpg,https://www.youtube.com/watch?v=dxsa2j1o2F4&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=5,"스포이트는 액체를 흡입하고 방출하는 데 사용되는 고무 또는 플라스틱 기구로, 주로 작은 양의 액체를 정밀하게 다루는 데 사용된다."
+39,피펫 필러(펌프),up,화학실,8,26,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/176737_represent?1629437335,https://www.youtube.com/watch?v=t159gZLzc34&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=4,"피펫 펌프는 피펫을 사용하여 액체를 쉽게 흡입하고 방출할 수 있도록 도와주는 기구로, 손쉽게 액체의 양을 조절할 수 있게 한다."
+40,세척병,up,화학실,9,21,https://images.cacheby.com/product-images/cacheby/f954c9c6-c8ec-11ec-9d64-0242ac120002/S-8969.jpg,https://www.youtube.com/watch?v=z-2wxQsQCVA,세척병은 화학 실험을 할 때에 세척액을 넣어 두는 용기이다. 유연성 플라스틱으로 만들어 한 개의 굽은 관이 있고 용기를 누르면 세척액이 뿜어져 나오게 된다.
+41,유리막대,up,화학실,9,20,https://cafe24.poxo.com/ec01/yesoap1214/HOvhRhvOk+Cp2KY4JuusAr1027nPYZEdFVIPMStIyty2o1H2qE/fVnNkWZ0+IkCMjRkLplhHC9tMpdEQ6eCFZg==/_/web/product/big/201803/367_shop1_616219.jpg,https://www.youtube.com/watch?v=ZKB2H15GLjo,유리로 만든 막대로 시약을 혼합할 때 사용한다.
+42,약수저,up,화학실,9,13,https://www.imarket.co.kr/goods_image/5/7/0/8/1037955708s.jpg,https://www.youtube.com/watch?v=mghhlU7yDT4,"약수저는 고체 시료를 옮길 때 쓰는 수저로 시약통에서 시험관이나 비커로 옮길 때, 혹은 일정량의 시약을 취하기 위해 사용한다."
+43,온도계,up,화학실,9,21,https://i.namu.wiki/i/qg7aIK6a8JmEeaGXMkNy4hWBteyR6a-yO73RXm8LmE6atK7-ZYufSevfVjDIMmU4K1Lg5nJN5LjirRhfjMvkDw.webp,https://www.youtube.com/watch?v=iMqjNouaFxY&list=PLky2LzqjvpU2QuJcAl0a5khJPPwaXMrBI&index=6,"온도계는 온도를 측정하는 기구로, 액체 또는 전자 센서를 이용해 온도를 측정하는 데 사용한다."
+44,핀셋,up,화학실,9,53,https://content.misumi-ec.com/image/upload/t_product_main/v1/p/jp/product/series/223000306523/223000306523_001.jpg?$product_main$,https://www.youtube.com/watch?v=V41Id7gShEE,핀셋은 작은 물체를 잡거나 조작하는 데 사용하는 도구로 두 개의 긴팔이 서로 맞물려 있어 정밀한 작업이 가능하다.
+45,보안경,up,물리실험실,1,,https://img.danawa.com/prod_img/500000/990/293/img/10293990_1.jpg?_v=20210907110506,https://www.youtube.com/watch?v=Eium8cJji5I,외부의 해로운 환경으로부터 눈을 보호하기 위해 착용하는 안경이다.
+46,장갑,up,물리실험실,1,,https://img.danawa.com/prod_img/500000/072/740/img/12740072_1.jpg?_v=20201123105929,https://www.youtube.com/watch?v=Eium8cJji5I,외부의 해로운 환경으로부터 손을 보호하기 위해 착용한다.
+47,마스크,up,물리실험실,1,,https://img.daihan-sci.com/sellerzone/00283/product/img/250/1_-8272233515775767155.jpg,https://www.youtube.com/watch?v=aTicerr0l9I,외부의 해로운 환경으로부터 호흡기를 보호하기 위해 착용한다.
+48,평면 거울,up,물리실험실,3,6,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201810/491b962c5c864e346f0cfc1bae0e0f35.jpg,https://www.youtube.com/watch?v=Psz2Pgb1LW8,평평한 표면을 가진 거울로 물체의 이미지를 반사해 실제 크기와 방향을 보여주는 특징이 있다.
+49,"볼록, 오목 겸용거울",up,물리실험실,3,6,https://m.chingchanmall.com/web/product/big/202201/1de30a808dda8a5b1760d6525775bc48.jpg,https://www.youtube.com/watch?v=dfT_LqlD4OA,볼록 오목 겸용 거울은 한쪽 면이 볼록하고 다른 쪽 면이 오목한 거울이다. 두 가지 반사 특성을 동시에 활용할 수 있어 다양한 용도로 사용된다. 볼록면은 넓은 시야를 제공하고 오목면은 물체를 확대해서 보여준다.
+50,볼록 렌즈,up,물리실험실,3,12,https://m.bigscience.kr/web/product/big/202008/6e7f10716ea0ac67e15439e17bb0ea2e.jpg,https://www.youtube.com/watch?v=dfT_LqlD4OA,"볼록 렌즈는 중앙이 두껍고 가장자리가 얇은 렌즈로, 빛을 모으는 역할을 하며, 주로 물체를 확대하거나 이미지를 형성하는 데 사용된다."
+51,오목 렌즈,up,물리실험실,3,14,https://m.bigscience.kr/web/product/big/202008/6e7f10716ea0ac67e15439e17bb0ea2e.jpg,https://www.youtube.com/watch?v=dfT_LqlD4OA,"오목 렌즈는 중앙이 얇고 가장자리가 두꺼운 렌즈로, 빛을 퍼뜨리는 역할을 하며, 주로 물체를 축소하여 이미지 형성에 사용된다."
+52,직각 프리즘,up,물리실험실,3,4,https://rocket1967.cafe24.com/web/product/big/202302/2b0dc2f92ed30104251f98c3a8e474fe.jpg,https://www.youtube.com/watch?v=Y5E9XNTQvmA,직각 프리즘은 두 개의 직각을 이루는 면과 두 개의 평행한 면을 가진 광학 장치로 주로 빛을 반사하거나 굴절시키는 데 사용된다.
+53,삼각 프리즘,up,물리실험실,3,6,https://m.korearocket.co.kr/web/product/big/202301/cd29b00dc6e7dcc808575d6e4c665a9a.jpg,https://www.youtube.com/watch?v=Y5E9XNTQvmA,삼각 프리즘은 빛을 분산시켜 다양한 색깔로 나누는 효과를 가진 삼각형 형태의 광학 장치
+54,돋보기,up,물리실험실,3,35,https://m.bys2525.co.kr/web/product/big/img01//12/06/12/2403/2403_detail0.jpg,https://www.youtube.com/watch?v=HKWS8_rjl6w,돋보기는 볼록 렌즈를 이용해 물체를 확대하여 자세히 관찰할 수 있게 해주는 간단한 광학 기기이다.
+55,AC DC POWER SUPPLY,up,물리실험실,2,4,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZxylJykWgH38al2muROMx0TZWj8M9by_ImA&s,DC Regulated Power SUPPLY만 존재,"AC DC 전원 공급 장치는 교류(AC) 전원을 직류(DC) 전원으로 변환하여 전자 기기에 필요한 전력을 공급하는 장치이다. 주로 정류기, 필터, 그리고 안정화 회로를 포함하여 안정적인 DC 전압을 제공한다."
+56,DC Regulated Power SUPPLY,up,물리실험실,2,4,https://5.imimg.com/data5/WA/TB/EF/SELLER-2451114/dc-regulated-power-supply.jpg,https://www.youtube.com/watch?v=XHP9-5DGpig,"DC 정전압 전원 공급 장치는 일정한 직류 전압을 유지하면서 출력 전압을 조절할 수 있는 장치로, 전자 기기나 실험 장비에 안정적이고 일관된 전력을 제공한다. 주로 전압 조절 회로와 과전류 보호 기능을 포함하여 전압 변동을 최소화한다."
+57,다중 섬광 장치,up,물리실험실,2,1,https://hssci.co.kr/web/product/medium/sciencestarshop_14439.jpg,어플만 존재,다중 섬광 장치는 여러 개의 섬광을 동시에 발생시켜 특정한 효과를 내는 장치이다.
+58,그네형 전자기력 실험장치(A형),up,물리실험실,2,8,https://cafe24.poxo.com/ec01/instrument8513/qpzoPtAfsyswz+JPAFwof3K42bKXBiJ1Z0HnX/FToLyxHn/wsxnGxU+mOvp2xx4WBbmORmgE3YI9kLzsOlp5dw==/_/web/product/big/202312/6e48a1bd29e13dd03a309d6bef577277.jpg,https://www.youtube.com/watch?v=jMSJlMrwAos,"전자기력의 작용을 연구하기 위해 설계된 장치로, 전류가 흐르는 도선과 자기장 간의 상호작용을 통해 발생하는 힘을 측정한다."
+59,이중코일,up,물리실험실,2,10,https://m.korearocket.co.kr/web/product/Images/1/SFSELFAA0001125/big_14404180624bcfd48be9434.jpg,,"두 개의 코일이 서로 상호작용하는 장치로, 전자기 유도 현상을 연구하거나 전류의 변화를 측정하는 데 사용된다."
+60,솔레노이드 코일,up,물리실험실,2,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201801/4965_shop1_756120.jpg,https://www.youtube.com/watch?v=x3zoyRPxNAw,"긴 원통형의 전선으로 감겨진 코일로, 전류가 흐를 때 내부에 균일한 자기장을 생성하며, 전자기 유도 및 전자기력 실험에 주로 사용된다."
+61,와전류 실험기(렌츠의 법칙 실험기),up,물리실험실,2,5,https://hssci.co.kr/web/product/medium/sciencestarshop_14583.jpg,https://www.youtube.com/watch?v=0BhhrgJP88g,"도체가 자기장 내에서 움직일 때 발생하는 와전류를 관찰하고 렌츠의 법칙을 이해하기 위한 장치로, 전자기 유도의 원리를 실험적으로 보여준다."
+62,직류전류계,up,물리실험실,1,8,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/small/202206/053d46bd8346f613888b7e06f9fce297.jpg,https://www.youtube.com/watch?v=rqKlxc7Kb1g,직류 전류의 세기를 측정하는 기기이다.
+63,직류전압계,up,물리실험실,1,8,https://m.sangamall.co.kr/web/product/big/202206/80a3df79a92cb0e34c1d3c3375f672af.jpg,https://www.youtube.com/watch?v=rqKlxc7Kb1g," 직류 전압을 측정하는 장치로, 전압의 크기를 직관적으로 보여주며, 전기 회로의 상태를 파악하는 데 유용하다."
+64,검류계,up,물리실험실,1,7,https://m.sangamall.co.kr/web/product/big/201904/dd672313ba746ed36ceb20eeba981a2d.jpg,https://www.youtube.com/watch?v=eZmkgs97tCo,"전류의 방향과 세기를 측정하는 기기로, 일반적으로 미세한 전류를 측정하는 데 사용되며, 전기 회로의 상태를 확인하는 데 도움을 준다."
+65,마찰전기 실험세트(6종),up,물리실험실,1,7,https://m.kuryong.co.kr/web/product/big/3902.jpg,https://www.youtube.com/watch?v=OahI4G_ZQb0,다양한 재료를 사용해 마찰 전기를 생성하고 관찰할 수 있는 실험 도구 세트이다.
+66,나침반,up,물리실험실,1,7,https://m.mgoffice.kr/web/product/big/201909/0ee7601bc77624245a59cbf92ce857fb.jpg,https://www.youtube.com/watch?v=1-rNHFNVcdk,지구 자기장의 방향을 이용해 북쪽을 가리키는 장치이다.
+67,니크롬선 저항판(3종),up,물리실험실,1,8,https://koreascience2948.cafe24.com/web/upload/NNEditor/20221017/158.jpg,https://www.youtube.com/watch?v=1lou-3Qn9yk,다양한 저항 값을 가진 니크롬선으로 구성된 판이다.
+68,축전기,up,물리실험실,1,7,https://gplab.pusan.ac.kr/sites/gplab/contents/images/2021/09/20210906_180208050_72701.jpeg,https://www.youtube.com/watch?v=oD4R0dG6qoQ,전기를 저장하는 장치이다.
+69,OMEGA MAGIC UFO LEVITATION,up,물리실험실,1,7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQslAii0qvLemEylF4YeYlPTjaithRB4l4QRunR598VXKZ_Wu6lkW36zWfI1U-ntp4daxM&usqp=CAU,https://www.youtube.com/watch?v=AUyo0OGJ35U,자기 부상 원리를 이용해 물체를 공중에 띄우는 장치이다.
+70,광전류 측정장치,up,물리실험실,4,8,https://jin7879.cafe24.com/web/product/big/jhs(210202)/3390c.jpg,https://www.youtube.com/watch?v=kpj14fhk5ds,광원에서 발생하는 전류를 측정하는 장치이다.
+71,빛합성 광원장치,up,물리실험실,4,4,https://jin7879.cafe24.com/web/product/big/jhs(210202)/3455a.jpg,https://www.youtube.com/watch?v=i0lW6h2R-ug,다양한 색상의 빛을 합성하여 특정한 색을 만들어내는 장치이다.
+72,시간 기록계,up,물리실험실,4,1,https://ylscience.co.kr/web/product/big/202301/46f047d13855edf4122c959bf26706f5.jpg,https://www.youtube.com/watch?v=Wu7UudR2Yw4,실험이나 사건의 시간을 기록하고 측정하는 장치이다.
+73,Laser,up,물리실험실,4,7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0xDsq9H87kzKwoBB-pTuLfqLC7aTQN5DKw&s,https://www.youtube.com/watch?v=LP4wrEviHG8,특정 파장의 빛을 집중적으로 방출하는 장치이다.
+74,수면파 투영 실험장치,up,물리실험실,"5,6",8,https://m.korearocket.co.kr/web/product/Images/1/SFSELFAA0001014/big_20144309304bac643653d7e.jpg,https://www.youtube.com/watch?v=fh7g0826oJg,물리적 원리를 이용해 수면파의 형태를 시각적으로 보여주는 장치이다.
+75,간이 푸코 진자,up,물리실험실,"5,6",7,https://kiscoshop.co.kr/web/product/big/5457.jpg,https://www.youtube.com/watch?v=I08UnpCyvfk,지구의 자전 운동을 보여주는 간단한 진자 장치이다.
+76,소리굽쇠,up,물리실험실,"5,6",14,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201808/d2d4e3afa474a43f50dff6f8fa686f40.jpg,https://www.youtube.com/watch?v=CMzZaf6OupQ,특정 주파수의 소리를 발생시키는 장치이다.
+77,진공자유낙하 실험장치,up,물리실험실,"5,6",1,https://m.hssci.co.kr/web/product/small/sciencestarshop_13490.jpg,https://www.youtube.com/watch?v=oN5emxYrtUY,진공 상태에서 물체가 자유 낙하하는 현상을 관찰할 수 있는 장치이다.
+78,구심력 실험장치(전동식),up,물리실험실,"5,6",2,https://m.eduscience.co.kr/data/temp/451793.jpg,https://www.youtube.com/watch?v=y7V4bp-7oYY,원운동에서 발생하는 구심력을 측정하고 분석하는 장치이다.
+79,역학용 금속 추,up,물리실험실,7,4,https://m.korearocket.co.kr/web/product/Images/0/SFSELFAA0000790/big_18096369304b9dadd023870.jpg,https://www.youtube.com/watch?v=xpXQdsY9lAY,"물리학 실험에서 중력, 운동 등을 연구하기 위해 사용되는 금속으로 만들어진 추이다."
+80,비열측정용 물체,up,물리실험실,7,7,https://m.korearocket.co.kr/web/product/Images/1/SFSELFAA0001046/big_15270305664bb196bd4c5f2.jpg,https://www.youtube.com/watch?v=qE087OCo-KU,물체의 비열을 측정하기 위해 사용하는 장치이다.
+81,전등,up,물리실험실,7,8,https://m.miraes.co.kr/web/product/big/20200130/1458098903494c809ed55755d05e7f5a.png,https://www.youtube.com/watch?v=jW9PJkPOVvc&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=35,전기를 이용해 빛을 발산하는 장치이다.
+82,단열변화 실험장치,up,물리실험실,7,9,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201812/487800d9a64ae6ad0a59a5ac22b563c6.jpg,https://www.youtube.com/watch?v=sgKrVJeTw_8,열전달을 연구하기 위한 장치이다.
+83,열량계,up,물리실험실,7,7,https://m.kuryong.co.kr/web/product/big/3259.jpg,https://www.youtube.com/watch?v=ZWG74dV9G4E,열의 변화를 측정하여 열량을 계산하는 장치이다.
+84,스탠드,down,화학실,1,,https://m.korearocket.co.kr/web/product/big/201902/0104066f08b0384418246abf69e33a29.jpg,https://www.youtube.com/watch?v=EdalR4YR6Gc,실험 장비나 도구를 고정하는 데 사용되는 지지대이다.
+85,클램프,down,화학실,1,,https://i.namu.wiki/i/-TBI5qfqtOThzlUR2VWowrzngDKS0Wf-XHn9z_5RqfFd5fP3tMvBLukHPZbfm5lOF7PS7lpI6P_hulUbsgNxmg.webp,https://www.youtube.com/watch?v=EdalR4YR6Gc,실험 기구를 고정하거나 지지하기 위해 사용하는 도구이다.
+86,전자저울,down,화학실,2,3,https://img.danawa.com/prod_img/500000/594/780/img/14780594_1.jpg?_v=20240321100009,https://www.youtube.com/watch?v=QbzzqORKYrc&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=6,물체의 무게를 정밀하게 측정하는 장치이다.
+87,알코올램프,down,준비실 ,,,https://biozoa.co.kr/data/goods/1/2020/08/605_tmp_352fe7eeef59c62701bace5b402f36355686list1.png,https://www.youtube.com/watch?v=ieXlDcVLJaI&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=11,"알코올을 연료로 사용하는 열원으로, 실험실에서 가열이나 소독에 사용된다."
+88,초음파세척기,down,준비실1,,,https://cdn.imweb.me/thumbnail/20200818/90cc03c26a496.png,업소용만 존재,초음파를 이용해 물체의 표면을 깨끗하게 세척하는 장치이다.
+89,믹서기,down,준비실1,,,https://img.daihan-sci.com/sellerzone/00357/product/img/250/1_-7664857638916648716.jpg,https://www.youtube.com/watch?v=_jVIIofN0pY,"재료를 혼합하거나 갈아내는 전자기기로, 주로 음식이나 화학 실험에 사용된다."
+90,일회용스포이드 5ml,down,준비실1,,,https://cafe24.poxo.com/ec01/cho8062/fYw07Q+e08011Z5Qzbz309exkJ3Nss56q/hnT+7YLqO0Dj/N+vJtX1Sc0p9Q3P/rIUO+xUC0Qu/uO/MXaECYLA==/_/web/product/big/202009/e69e57cfa7fff4afe85c4f54e4dc63ed.jpg,https://www.youtube.com/watch?v=_8Jjry9wKfM&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=10,액체를 흡입하고 방출하는 데 사용하는 5ml 용량의 일회용 도구이다.
+91,일회용스포이드 3ml,down,화학실,45,,https://cafe24.poxo.com/ec01/cho8062/fYw07Q+e08011Z5Qzbz309exkJ3Nss56q/hnT+7YLqO0Dj/N+vJtX1Sc0p9Q3P/rIUO+xUC0Qu/uO/MXaECYLA==/_/web/product/big/202009/e69e57cfa7fff4afe85c4f54e4dc63ed.jpg,https://www.youtube.com/watch?v=_8Jjry9wKfM&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=10,액체를 흡입하고 방출하는 데 사용하는 3ml 용량의 일회용 도구이다.
+92,일회용 스포이드 10ml,down,화학실,14,,https://cafe24.poxo.com/ec01/cho8062/fYw07Q+e08011Z5Qzbz309exkJ3Nss56q/hnT+7YLqO0Dj/N+vJtX1Sc0p9Q3P/rIUO+xUC0Qu/uO/MXaECYLA==/_/web/product/big/202009/e69e57cfa7fff4afe85c4f54e4dc63ed.jpg,https://www.youtube.com/watch?v=_8Jjry9wKfM&list=PLPhnrj-tuZvyX5oEw5KsTCjPrU5OG4O5k&index=10,액체를 흡입하고 방출하는 데 사용하는 10ml 용량의 일회용 도구이다.
+93,구리항균필름,down,준비실1,,,https://cdn.011st.com/11dims/resize/600x600/quality/75/11src/product/2862040559/B.jpg?925000000,,"항균 성질을 가진 구리로 만들어진 필름으로, 표면의 미생물을 억제하는 데 사용된다."
+94,DNA 큐브,down,준비실1,,,https://www.kolabshop.com/data/item/1474971518/7JW87J207JW8.png,,DNA 샘플을 보관하거나 분석하는 데 사용하는 장치이다.
+95,주사기,down,준비실1,,,https://ko.batterymaking.com/uploadfile/202009/28/f26fc4f23c74c710458193905313b89d_medium.jpg,,"액체를 흡입하고 주입하는 데 사용하는 도구로, 주로 의료 및 실험에 사용된다."
+96,바늘,down,준비실1,,,https://img.daihan-sci.com/sellerzone/00383/product/img/250/1_-6654335178392967394.jpg,,주사기와 함께 사용하여 액체를 주입하거나 흡입하는 데 사용하는 날카로운 도구이다.
+97,인조피부,down,준비실1,,,https://m.stetho-scope.com/web/product/big/202211/9d1afdb3bb74138a49c9592da292f3c6.jpg,,"인체의 피부를 모사한 물질로, 실험이나 교육용으로 사용된다."
+98,봉합사,down,준비실1,,,https://www.biozoa.co.kr/data/goods/1/2020/07/200_tmp_40e48f232352a105e40dbaadf0e18b8a2379list1.png,,"상처를 봉합하는 데 사용되는 실과, 주로 의료 분야에서 사용된다."
+99,스태플,down,준비실1,,,https://image.made-in-china.com/202f0j00BhAryInKyFpG/Medical-Equipment-Disposable-Linear-Stapler-Adapt-to-Difficult-Surgery.webp,,종이나 기타 재료를 고정하는 데 사용하는 클립이다.
+100,UV 소독기,down,준비실1,,,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/20200310/21d43f62c97813a0fdac31ee4ff1ba95.jpg,,자외선(UV)을 이용해 물체나 공간의 세균을 제거하는 장치이다.
+101,유속센서,down,준비실1,,,https://m.koreasci.com/web/product/big/FLOBTA.1.jpg,,"유체의 속도를 측정하는 센서로, 수조나 배관에서 사용된다."
+102,회전운동센서,down,준비실1,,,https://m.koreasci.com/web/product/big/RMVBTD.1.jpg,,회전하는 물체의 각속도를 측정하는 장치이다.
+103,적외선 운동센서,down,준비실1,,,https://img.freepik.com/premium-photo/infrared-movement-sensor_917664-2273.jpg,,"적외선을 이용해 움직임을 감지하는 센서로, 보안 및 자동화 시스템에 사용된다."
+104,탁도센서,down,준비실1,,,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFHd6FZEkrjk52Yseich6MKOBuIidf0Us5pg&s,,"액체의 탁도를 측정하는 장치로, 수질 분석에 활용된다."
+105,풍속센서,down,준비실1,,,https://m.koreasci.com/web/product/big/ANMBTA.1.jpg,,"바람의 속도를 측정하는 장치로, 기상 관측이나 환경 모니터링에 사용된다."
+106,3차원 가속도센서,down,준비실1,,,https://www.ifm.com/responsive/xlarge/fourbythree/content/gallery/productnews/teaser-images-square-format/2020/hmi/p_f_wh_w_800_0041.jpg?v=1702133493,,물체의 가속도와 방향을 3차원으로 측정하는 센서이다.
+107,질산이온선택성센서,down,준비실1,,,https://m.koreasci.com/web/product/big/NO3BTA.1.jpg,,질산 이온 농도를 측정하는 데 특화된 센서이다.
+108,자외선 센서(UVA),down,준비실1,,,https://m.koreasci.com/web/product/big/UVABTA.1.jpg,,UVA 파장의 자외선을 측정하는 센서이다.
+109,자외선 센서(UVB),down,준비실1,,,https://m.koreasci.com/web/product/big/UVBBTA.1.jpg,,UVB 파장의 자외선을 측정하는 센서이다.
+110,광합성 Par 센서,down,준비실1,,,https://vctec.co.kr/web/product/seeedstudio/img/314990734-1.jpg,,식물의 광합성에 영향을 미치는 PAR(Photosynthetically Active Radiation) 값을 측정하는 센서이다.
+111,한글랩퀘스트2,down,준비실1,,,https://m.koreasci.com/web/product/big/0906670600.1.jpg,,"과학 실험 및 데이터 분석을 위한 소프트웨어로, 실험 결과를 시각적으로 표현하고 분석하는 데 사용된다."
+112,"1,4-부탄디올",,시약준비실,6,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNxm6FllAI9Y_AKMFFTTkkulhVJvAPbQ1t_A&s,,"화학 실험에서 사용되는 유기 화합물로, 주로 용매나 중간체로 사용된다."
+113,"2,6-디클로로인도페놀 
+ 나트륨염 수화물",,시약준비실,7,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmVvmoPX5xBhuOIXlP9bWEi1vDckzzuwdobA&s,,산화환원 지시약으로 사용된다. 주로 비타민 C의 정량 분석에 사용된다.
+114,4-아미노페놀,,시약준비실,7,1,https://hssci.co.kr/web/product/medium/sciencestarshop_2200.JPG,,염료와 사진 현상액의 중간체로 사용된다. 의약품 합성에도 사용된다.
+115,가리명반,,시약준비실,3,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/70463_represent?1548315741,,물 정화와 제지 공정에서 응집제로 사용된다. 방부제와 방염제로도 사용된다.
+116,간수분말,,시약준비실,8,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201801/6909_shop1_804210.jpg,,두부 제조 시 응고제로 사용된다. 전통적인 일본 요리에서 중요한 재료이다.
+117,갈락토오스용액,,시약준비실,6,1,https://www.biozoa.co.kr/data/goods/1/2020/07/520_tmp_c7ae70645f1c64dd262d3b42259a73d68089list1.jpg,,"단당류로, 주로 생화학 연구와 실험에서 사용된다. 유당의 구성 성분 중 하나이다."
+118,갈릭산 1수화물,,시약준비실,5,1,https://img.danawa.com/prod_img/500000/941/801/img/36801941_1.jpg?_v=20240221045956,,항산화제로 사용된다. 염료와 잉크의 제조에 사용된다.
+119,과망간산칼륨,,시약준비실,3,3,https://www.officeahn.co.kr/shopimages/officeahn/mobile/1/113091_represent?1407365339,,"강력한 산화제로, 소독제와 표백제로 사용된다. 화학 분석에서 산화환원 적정에 사용된다."
+120,과산화수소 (30%),,시약준비실,4,2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnYdJ5lQpkGipzFubsD-WMWSxRVwkyjLjOA&s,,"강력한 산화제로, 소독제와 표백제로 사용된다. 화학 합성에서 산화제로 사용된다."
+121,과산화수소 (34.5%),,시약준비실,4,9,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnYdJ5lQpkGipzFubsD-WMWSxRVwkyjLjOA&s,,"과산화수소의 농도가 더 높은 형태로, 주로 산업용으로 사용된다. 강력한 산화제로 작용한다."
+122,과황산암모늄용액,,시약준비실,5,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_2011.JPG,,"강력한 산화제로, 주로 화학 합성에서 사용된다. 폴리머화 반응의 개시제로 사용된다."
+123,구리조각,,시약준비실,1,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/20200619/90af3e40ff223aae790627e664261e45.jpg,,전기 전도성이 뛰어나 전기 회로에 사용된다. 또한 합금 제조에 사용된다.
+124,구연산 1수화물,,시약준비실,7,6,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/111994_represent?1436183516,,산미료로 식품에 사용된다. 또한 청소용 세제로도 사용된다.
+125,규산 나트륨 용액,,시약준비실,2,1,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_2017.JPG,,접착제와 실리카 젤 제조에 사용된다. 또한 방화재로도 사용된다.
+126,글리세린,,시약준비실,5,4,https://m.clayndeco.com/web/product/big/201805/3576_shop1_15275719526895.jpg,,보습제로 화장품에 사용된다. 또한 식품 첨가물로도 사용된다.
+127,글리세릴모노노스테아르산,,시약준비실,7,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90dRZc_JAOd1XftwQkQ_QZ-gzAhYb3iBE9Q&s,,유화제로 식품과 화장품에 사용된다. 안정제로도 사용된다.
+128,금속나트륨,,시약준비실,1,3,https://officeahn.jpg2.kr/DAE%20JUNG/S1124.jpg,,강력한 환원제로 화학 합성에 사용된다. 또한 나트륨 램프 제조에 사용된다.
+129,노말프로필알코올,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/112723_represent?1453450084,,용매로 사용된다. 또한 세정제와 소독제로도 사용된다
+130,노말헥산 2개,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/127224_represent?1429962824,,용매로 사용된다. 주로 지방과 기름의 추출에 사용된다
+131,녹말용액,,시약준비실,8,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201906/6440620d2e22e41415d3c989c68cb70b.jpg,,점성 증가제로 사용된다. 또한 요오드 검출 시약으로도 사용된다.
+132,닌하드린용액,,시약준비실,6,1,https://officeahn.co.kr/shopimages/officeahn/mobile/6/130736_represent?1547597426,,아미노산 검출 시약으로 사용된다. 주로 지문 분석에 사용된다.
+133,당밀,,시약준비실,8,1,https://www.ngallery.co.kr/shopimages/gooworl114/mobile/4/2097144_represent?1718944083,,"설탕 제조 과정에서 나오는 부산물로, 주로 사료와 발효 공정에 사용된다. 또한 식품 첨가물로도 사용된다."
+134,동조각,,시약준비실,1,1,https://www.dslab.co.kr/data/goods/83/8354/500g_2.view.jpg,,전기 전도성이 뛰어나 전기 회로에 사용된다. 또한 합금 제조에 사용된다.
+135,디아세톤알콜,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/112187_represent?1420950683,,용매로 사용된다. 주로 페인트와 코팅제의 희석제로 사용된다.
+136,디에틸에테르,,시약준비실,6,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201901/54b54dc06f77611ebe5033c6c8cad0cc.jpg,,"강력한 용매로, 주로 마취제와 추출 용매로 사용된다. 또한 화학 합성에 사용된다."
+137,디페닐아민,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/5/112315_represent?1630302616,,산화 방지제로 사용된다. 주로 고무와 플라스틱의 안정제로 사용된다.
+138,레시틴,,시약준비실,6,1,https://img.danawa.com/prod_img/500000/843/822/img/17822843_1.jpg?_v=20220914105955,,유화제로 식품과 화장품에 사용된다. 또한 건강 보조제로도 사용된다.
+139,로다민 B,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/109729_represent?1415087648,,형광 염료로 사용된다. 주로 생물학적 염색과 형광 현미경에 사용된다.
+140,리튬,,시약준비실,1,1,https://officeahn.co.kr/shopimages/officeahn/mobile/9/112579_represent?1419475472,,배터리 제조에 사용된다. 또한 항우울제로도 사용된다.
+141,리트머스용액,,시약준비실,4,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/133319_represent?1548032359,,산-염기 지시약으로 사용된다. 주로 화학 실험에서 pH를 측정하는 데 사용된다.
+142,마그네슘 조각,,시약준비실,1,1,https://www.sciencelove.co.kr/shopimages/science/mobile/8/408528_represent?1537720575,,강력한 환원제로 사용된다. 또한 불꽃놀이와 신호탄에 사용된다.
+143,만능지시약,,시약준비실,4,9,https://cafe24.poxo.com/ec01/hsookyoun03/w3/z2ScBTTyHtl8+qjMfluo/dAvH/ybI2t1bTVkJJ8koE996SVOMK7eGwxsV5BTs2KtFCGRglWXI8HDCZ1CG9A==/_/web/product/big/20200513/1bc4de2672eeb66504a39bc4d61b10dc.jpg,,다양한 pH 범위를 측정할 수 있는 지시약이다. 주로 화학 실험에서 사용된다.
+144,말론산,,시약준비실,5,1,https://thumbnail10.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/2bb1/b8187a5822780d89553162befccc8503018d63196bb674aecab100afc939.jpeg,,화학 합성에 사용된다. 주로 의약품과 향료 제조에 사용된다.
+145,메타중아황산나트륨,,시약준비실,2,1,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/201608/15722_shop1_974447.jpg,,산화 방지제로 사용된다. 주로 식품 보존제와 소독제로 사용된다.
+146,메틸레드,,시약준비실,4,1,https://officeahn.co.kr/shopimages/officeahn/mobile/8/133328_represent?1547886751,,산-염기 지시약으로 사용된다. 주로 화학 실험에서 pH를 측정하는 데 사용된다.
+147,메틸렌블루,,시약준비실,4,1,https://officeahn.co.kr/shopimages/officeahn/mobile/7/70337_represent?1547731538,,염료로 사용된다. 주로 생물학적 염색과 약물로 사용된다.
+148,메틸알콜,,시약준비실,6,1,https://m.sangamall.co.kr/web/product/big/20191126/580706518ca414e485c783378441320b.jpg,,용매로 사용된다. 주로 연료와 화학 합성에 사용된다.
+149,메틸오렌지,,시약준비실,4,1,https://www.biozoa.co.kr/data/goods/1/2020/07/301_tmp_1767dc4d40c54c623eee32a0c0ce68b13350list1.jpg,,산-염기 지시약으로 사용된다. 주로 화학 실험에서 pH를 측정하는 데 사용된다.
+150,무수아세트산,,시약준비실,6,3,https://m.hssci.co.kr/web/product/small/sciencestarshop_2057.JPG,,강력한 용매로 사용된다. 주로 화학 합성에 사용된다.
+151,무수에탄올 99.9 % 2개,,시약준비실,6,2,https://officeahn.co.kr/shopimages/officeahn/mobile/9/127759_represent?1430820039,,고순도 용매로 사용된다. 주로 화학 실험과 합성에 사용된다.
+152,묽은 암모니아수,,시약준비실,5,12,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/202406/740f473b7b4be520152d55fc1671798e.jpg,,청소용 세제로 사용된다. 또한 화학 실험에서 염기성 용액으로 사용된다.
+153,미네랄오일,,시약준비실,8,1,https://officeahn.co.kr/shopimages/officeahn/mobile/6/112886_represent?1406687579,,"투명하고 무취의 액체로, 다양한 산업 및 화장품 용도로 사용된다. 피부 보습제나 윤활제로도 자주 활용되며, 특히 민감성 피부에 적합하다."
+154,발효효모 펩타이드,,시약준비실,8,1,https://m.ecofactory.co.kr/data/goods/1/2013/10/10759_tmp_10a4d79e85d4fb57c338f788b626ad7b1999large.jpg,,"효모로부터 얻어진 펩타이드로, 피부 재생과 보습에 도움을 주는 성분이다. 피부 탄력 개선 및 항산화 효과도 기대할 수 있다."
+155,베네딕트용액,,시약준비실,4,2,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201712/290_shop1_857845.jpg,,"환원당의 존재를 확인하는 화학적 시험에 사용되는 용액으로, 청록색을 띤다. 환원당이 존재하면 용액이 붉은색으로 변한다."
+156,뷰렛시약,,시약준비실,4,1,https://biozoa.co.kr/data/goods/1/2020/07/513_tmp_f3c427ac5cfafdef9c4539744b959d2d8837list1.jpg,,"단백질의 검출에 사용되는 시약으로, 보라색으로 변색되는 반응을 통해 단백질을 확인할 수 있다."
+157,브롬수,,시약준비실,4,1,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_2072.JPG,,"브롬과 물이 섞인 용액으로, 탄화수소의 이중 결합을 검출하는 데 사용된다. 반응 시 색이 없어지면서 이중 결합이 있는지 확인할 수 있다."
+158,사프라닌용액,,시약준비실,4,1,https://www.biozoa.co.kr/data/goods/1/2020/07/547_tmp_984262c4b488c37b0837cabc437189eb8761list1.jpg,,"핵을 염색하는 데 사용되는 염색액으로, 세포학 연구에서 자주 사용된다. 주로 염기성 염료로 세포의 핵을 선명하게 나타낸다."
+159,산화아연,,시약준비실,1,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_2083.JPG,,"산화아연은 주로 자외선 차단제나 스킨케어 제품에 사용되며, 항염 효과와 자외선 차단 효과가 있다. 피부 트러블 완화에도 도움이 된다."
+160,살리실산,,시약준비실,7,3,https://www.officeahn.co.kr/shopimages/officeahn/mobile/8/284038_represent?1704916674,,"살리실산은 각질 제거와 여드름 치료에 효과적인 성분으로, 각질층을 부드럽게 하여 피부 표면을 정리하는 데 도움을 준다."
+161,석유에테르,,시약준비실,6,2,https://sciencelove.co.kr/shopimages/science/mobile/4/408784_represent?1538467126,,"비점이 낮고 휘발성이 강한 용매로, 유기화합물의 추출이나 정제에 사용된다. 지방질의 용해에 탁월한 성질을 가지고 있다."
+162,석회수,,시약준비실,3,1,https://m.korearocket.co.kr/web/product/Images/0/SFSELFAA0000493/big_15120128004b395eb7c5697.jpg,,"이산화탄소를 검출할 수 있는 용액으로, 석회수에 이산화탄소를 불어넣으면 뿌옇게 흐려지며 탄산칼슘이 형성된다."
+163,설팜산,,시약준비실,5,1,https://officeahn.co.kr/shopimages/officeahn/mobile/2/151882_represent?1521603208,,"강력한 산화제이자 세정제로 사용되며, 주로 실험실에서 염료나 다른 물질의 산화에 관여한다. 피부와 눈에 자극을 줄 수 있다."
+164,수단 III 용액,,시약준비실,4,1,https://biozoa.co.kr/data/goods/1/2020/07/510_tmp_87fb14439075b4075cfc32e9d66b976a0650list1.jpg,,"지방을 염색하는 데 사용되는 시약으로, 지방의 존재를 붉은색으로 나타낸다. 주로 생물학적 실험에서 세포의 지방을 확인하는 데 쓰인다."
+165,수산화 나트륨,,시약준비실,2,15,https://www.officeahn.co.kr/shopimages/officeahn/mobile/5/179875_represent?1644106660,,"강한 알칼리성 물질로, 주로 비누나 세정제 제조에 사용된다. 피부와 접촉 시 자극을 주기 때문에 주의가 필요하다."
+166,수산화 마그네슘,,시약준비실,1,1,https://www.sciencelove.co.kr/shopimages/science/mobile/1/408791_represent?1538466471,,"산화 방지제 역할을 하며, 의약품 및 보충제에서 중요한 역할을 한다. 위장에 자극이 적어 위장 보호에도 사용될 수 있다."
+167,수산화바륨 8수화물,,시약준비실,1,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/8/111798_represent?1408934345,,"강한 알칼리성 물질로, 다양한 화학 반응에서 중화제나 실험용 시약으로 사용된다. 고온에서 용해되기 쉽다."
+168,수산화칼슘,,시약준비실,3,1,https://www.sciencelove.co.kr/shopimages/science/mobile/6/408796_represent?1538466051,,"석회나 시멘트에 사용되는 화합물로, 알칼리성 물질로서 토양 개량이나 건축 자재의 성분으로 많이 사용된다."
+169,수산회칼륨,,시약준비실,3,3,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201910/271fc99bf23a44918e8b9a5f7b9b5c5e.jpg,,"칼륨이 함유된 화합물로, 비료나 산업용으로 쓰인다. 수용성이고 알칼리성이며, 화학적 반응에서 촉매 역할을 한다."
+170,수크로스,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/0/133520_represent?1547890413,,"자연 상태의 설탕으로, 주로 식품 첨가물로 사용된다. 매우 높은 에너지원으로 다양한 생물학적 반응에서 필수적인 역할을 한다."
+171,숙신산,,시약준비실,5,1,https://www.dslab.co.kr/data/goods/93/9370/00.view.jpg,,"효모에서 자연적으로 발생하는 유기산으로, 대사 과정에서 중요한 역할을 한다. 주로 식품 보존제나 화학 반응의 중간 물질로 사용된다."
+172,스테아르산,,시약준비실,5,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_1939.JPG,,"지방산의 일종으로, 피부에 보호막을 형성하여 보습을 유지하는 데 도움을 준다. 화장품에서 보습제와 연화제로 많이 쓰인다."
+173,스판,,시약준비실,8,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/126833_represent?1437401451,,"비이온성 계면활성제로, 유화제나 분산제로 주로 사용된다. 화장품, 의약품 및 식품 제조에 폭넓게 적용된다."
+174,실리카겔 orange,,시약준비실,7,1,https://officeahn.co.kr/shopimages/officeahn/mobile/3/74393_represent?1547934780,,"주로 수분 흡수와 탈습에 사용되며, 공기 중의 수분을 흡착하여 건조 상태를 유지한다. 실리카겔은 다양한 산업 및 일상에서 널리 사용된다."
+175,실리카겔 white,,시약준비실,7,3,https://officeahn.co.kr/shopimages/officeahn/mobile/3/74393_represent?1547934780,,"실리카겔은 화학 실험 및 산업 공정에서 흡습제로 사용되며, 습기 제거에 탁월한 성능을 보인다."
+176,실리콘 엘라스토머,,시약준비실,8,1,https://ko.35shoe.com/uploads/s/c78b405a6005493090553251353d121c.webp,,"의료용 실리콘으로, 다양한 제품에 사용되며 내구성과 유연성을 가진다. 피부 친화적이어서 의료 기기나 임플란트에도 자주 쓰인다."
+177,실리콘오일,,시약준비실,8,1,https://img.danawa.com/prod_img/500000/698/838/img/2838698_1.jpg?_v=20220215151336,,"광범위한 산업과 화장품에 사용되는 유동성 실리콘 오일로, 윤활제, 방수제, 절연제 등으로 사용된다."
+178,아가로스 LE,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/174967_represent?1617098391,,"주로 겔 상태를 만들 때 사용되는 물질로, DNA나 단백질의 전기영동 실험에서 겔 매트릭스를 형성한다."
+179,아드레날린,,시약준비실,8,5,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/202106/aa1be83c79888dd4b2c02072a9548c3c.jpg,,"심장박동을 조절하고 혈관을 수축시키는 호르몬으로, 주로 응급 상황에서 심혈관계 자극제로 사용된다."
+180,아로미멀티베이스,,시약준비실,8,1,결과안뜸,,"화장품이나 비누 제조 시 기초 원료로 사용되며, 보습 및 피부 보호 기능이 뛰어나다. 천연 유래 성분으로 민감한 피부에도 사용 가능하다."
+181,아밀레이스 용액,,시약준비실,6,1,https://officeahn.co.kr/shopimages/officeahn/mobile/3/165553_represent?1633765777,,"전분을 분해하여 당을 생성하는 효소로, 소화 효소로도 잘 알려져 있다. 생화학 실험이나 산업적 생산에 널리 사용된다."
+182,아세톤,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/1/133481_represent?1547900348,,"휘발성이 강한 무색 액체로, 주로 유기화학 실험에서 용매로 사용된다. 가연성이 높으므로 취급 시 주의가 필요하다."
+183,아세트산,,시약준비실,5,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/133344_represent?1547955371,,"식초의 주요 성분으로, 약한 유기산이다. 주로 방부제, 조미료, 화학 공정에서 산성 촉매로 사용된다."
+184,아세트올세인,,시약준비실,4,1,https://biozoa.co.kr/data/goods/1/2020/07/84_tmp_fd89300af77ddea851c7a3fc4abf3be99830list1.jpg,,"세포 핵 염색에 사용되는 시약으로, 세포학 연구에서 자주 사용된다. 염색력이 강해 세포 구조를 명확하게 구분하는 데 도움을 준다."
+185,아세트카민용액,,시약준비실,4,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/130804_represent?1548076066,,"주로 세포의 염색을 위한 시약으로, 생물학 실험에서 핵을 염색하는 데 사용된다."
+186,아세틸콜린,,시약준비실,8,5,https://cafe24.poxo.com/ec01/hsookyoun03/w3/z2ScBTTyHtl8+qjMfluo/dAvH/ybI2t1bTVkJJ8koE996SVOMK7eGwxsV5BTs2KtFCGRglWXI8HDCZ1CG9A==/_/web/product/big/20200513/58fb1683bd244fa5d81a8e64ade14073.jpg,,"신경전달물질로, 근육 수축과 신경전달에 중요한 역할을 한다. 생리학 실험이나 약리학 연구에서 자주 사용된다."
+187,아연 분말,,시약준비실,1,1,https://officeahn.co.kr/shopimages/officeahn/mobile/6/151816_represent?1521117325,,"광택이 있는 금속으로, 다양한 산업에서 주조 및 도금에 사용된다. 산화 방지 효과도 있다."
+188,아연 조각,,시약준비실,1,2,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201810/5c07225b1e97cbd00c15b271970b4072.jpg,,"금속의 형태로, 주로 화학 실험이나 금속 합금의 재료로 사용된다."
+189,아이오딘화칼륨용액,,시약준비실,3,1,https://officeahn.co.kr/shopimages/officeahn/mobile/7/153117_represent?1547194624,,"요오드화물의 수용액으로, 주로 요오드의 존재 여부를 확인하는 데 사용된다. 요오드가 존재하면 청색으로 변한다."
+190,아황산 나트륨,,시약준비실,2,3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgVDN7cdW31hxmrvQzcZVnVs0Cavk_Rc3mQ&s,,"환원제 역할을 하며, 산업 공정에서 산화 방지제나 방부제로 자주 사용된다."
+191,아황산수소나트륨,,시약준비실,2,1,https://www.sciencelove.co.kr/shopimages/science/mobile/9/408809_represent?1538458310,,"주로 탈산화제로 사용되며, 음식 보존이나 화학 실험에서 산화 방지제로도 쓰인다."
+192,안트라퀴논,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/2/113232_represent?1439027760,,"탄화수소류로부터 얻어지는 유기 화합물로, 염료나 의약품 제조에 사용된다. 화학적 중간체로 중요한 역할을 한다."
+193,알긴산 나트륨,,시약준비실,2,1,https://officeahn.co.kr/shopimages/officeahn/mobile/9/75229_represent?1547867773,,"수용성 고분자로, 물과 결합하여 겔을 형성하는 성질이 있다. 화장품이나 의료용 젤, 생물학 실험에 사용된다."
+194,알긴산 염화칼슘,,시약준비실,3,1,결과없음,,칼슘과 결합하여 알긴산 겔을 형성하는 데 사용된다. 생물학 실험이나 식품 산업에서 겔화제로 널리 쓰인다.
+195,알루미늄 조각,,시약준비실,1,1,https://www.sciencemall.biz/shopimages/09csh1/015001000160.jpg,,"가벼운 금속으로, 높은 열전도성과 전기전도성을 가지고 있다. 주로 전자기기나 화학 반응에서 사용된다."
+196,"에틸렌글리콜모노이소프로필
+ 에테르",,시약준비실,6,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/1/173061_represent?1609068867,,"중간 휘발성을 가진 무색 액체로, 주로 용매나 추출제, 화학 합성에 사용된다."
+197,에틸실리케이트,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/111497_represent?1437437875,,"에틸실리케이트는 무색의 액체로, 주로 실리카 겔이나 유리, 세라믹 등의 제조 과정에서 중간재로 사용된다. 유기 합성에서도 중요한 역할을 한다."
+198,에틸아세테이트,,시약준비실,6,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/6/151756_represent?1521076050,,"에틸아세테이트는 휘발성이 강한 무색 액체로, 주로 용매로 사용된다. 페인트, 니스, 접착제 제조에 널리 사용되며, 특유의 달콤한 냄새가 난다."
+199,에틸알콜(94.5%),,시약준비실,6,5,https://m.dsstory.net/web/product/big/202012/211d922115238bdb6efb24c5e4cc218e.jpg,,"에틸알콜(94.5%)은 에탄올로, 살균제, 용매, 연료 등에 사용된다. 높은 휘발성으로 인해 살균 소독에 탁월하며, 의약품, 화장품 등 다양한 산업에서 활용된다."
+200,에피클로로히드린,,시약준비실,6,1,https://www.dslab.co.kr/data/goods/76/7622/1562577565_550.view.jpg,,"에피클로로히드린은 고리형 화합물로, 주로 합성수지나 고분자 재료를 만드는 데 사용된다. 반응성이 높아 다양한 화학 반응에서 중간체로 쓰인다."
+201,염산,,시약준비실,5,14,https://www.sciencelove.co.kr/shopimages/science/mobile/0/408650_represent?1538575082,,"염산은 강력한 산으로, 금속 가공, 식품 가공, 제약 등 다양한 산업에서 널리 사용된다. 특히 화학 실험에서 산성 용액으로 많이 쓰인다."
+202,염소산 칼륨,,시약준비실,3,1,https://m.firstsci.co.kr/web/product/big/sciencestarshop_2162.JPG,,"염소산 칼륨은 산화제 역할을 하며, 화약 제조나 염료, 살충제에 사용된다. 고온에서 분해되며 폭발성이 있을 수 있다."
+203,염화 나트륨,,시약준비실,2,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/133507_represent?1546994996,,"염화 나트륨은 흔히 소금으로 알려져 있으며, 식품, 화학, 의료 분야에서 매우 중요한 물질이다. 용매로서 다양한 화학 반응에 필수적이다."
+204,염화 리튬 무수화물,,시약준비실,1,2,https://m.hssci.co.kr/web/product/small/sciencestarshop_2165.JPG (염화리튬),,"염화 리튬 무수화물은 무수상태의 염화 리튬으로, 주로 건조제나 배터리 제조에 사용된다. 흡습성이 뛰어나 수분을 흡수하는 데 도움을 준다."
+205,염화 바륨 2수화물,,시약준비실,1,1,https://m.roroworld.kr/web/product/big/202309/d1800e8737742ff530a55b5a9b0de107.jpg,,"염화 바륨 2수화물은 흰색의 결정으로, 주로 화학 실험에서 용해도를 테스트하거나 중화 반응에 사용된다. 독성이 있어 취급에 주의가 필요하다."
+206,염화 철,,시약준비실,1,3,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_2185.JPG,,"염화 철은 산화철의 일종으로, 주로 수처리나 금속 표면 처리에 사용된다. 수용액 상태에서는 강한 산성 반응을 보인다."
+207,염화 철 6수화물,,시약준비실,1,1,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_2188.JPG,,"염화 철 6수화물은 철 이온을 함유한 염화물로, 주로 촉매나 응집제로 사용된다. 물에 쉽게 용해되며 다양한 화학 공정에서 쓰인다."
+208,염화나트륨 6수화물,,시약준비실,1,1,사진없는것같음,,"염화나트륨 6수화물은 수화 상태의 염화 나트륨으로, 주로 화학 실험이나 산업 공정에서 사용된다. 높은 용해도와 흡습성을 가진다."
+209,염화메틸랜,,시약준비실,6,5,https://officeahn.co.kr/shopimages/officeahn/mobile/2/126772_represent?1428996210,,"염화메틸랜은 유기 용매로, 주로 플라스틱, 접착제, 페인트의 용제로 사용된다. 독성이 있어 장시간 노출 시 주의가 필요하다."
+210,염화암모늄,,시약준비실,5,2,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/202302/ea0bd04c148ed78d781f85ba9c214041.jpg,,"염화암모늄은 주로 비료나 건전지의 전해질로 사용된다. 백색 결정 형태로, 물에 잘 녹는다."
+211,염화제일철,,시약준비실,1,1,https://officeahn.co.kr/shopimages/officeahn/mobile/8/111368_represent?1437289255,,"염화제일철은 주로 철 도금이나 화학 합성에 사용되며, 강한 환원제를 필요로 하는 반응에서 쓰인다."
+212,염화칼륨,,시약준비실,3,3,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/202406/1ee8223978dd89af3a750e26083d19c7.jpg,,"염화칼륨은 무색의 결정성 물질로, 주로 비료나 의료용 전해질로 사용된다. 물에 잘 녹으며 체내 전해질 균형을 맞추는 데 도움을 준다."
+213,염화칼륨용액,,시약준비실,3,2,https://www.sciencelove.co.kr/shopimages/science/mobile/7/345117_represent?1537939687,,"염화칼륨용액은 수용성의 칼륨을 포함한 용액으로, 전해질 보충이나 화학 실험에서 널리 사용된다."
+214,염화칼슘,,시약준비실,3,1,https://www.sciencelove.co.kr/shopimages/science/mobile/2/345122_represent?1537940005,,"염화칼슘은 건조제, 제설제, 수처리 등에 사용되는 무색의 결정 물질로, 강한 흡습성을 지닌다."
+215,염화칼슘 2수화물,,시약준비실,3,1,https://officeahn.co.kr/shopimages/officeahn/mobile/0/112130_represent?1405518443,,염화칼슘 2수화물은 흡습성이 뛰어나 다양한 산업에서 건조제로 사용된다. 물에 쉽게 용해되며 발열 반응을 일으킨다.
+216,염화코발트용액,,시약준비실,2,2,https://www.sciencelove.co.kr/shopimages/science/mobile/2/408722_represent?1538568694,,"염화코발트용액은 코발트를 포함한 용액으로, 주로 화학 실험에서 사용된다. 용액의 색이 습도에 따라 변하는 특징이 있다."
+217,오이게놀,,시약준비실,7,1,https://image.auction.co.kr/itemimage/40/c8/3a/40c83ae4e6.jpg,,"오이게놀은 정향유의 주요 성분으로, 항염 효과와 진통 작용을 가지고 있다. 주로 치과 치료제나 향신료로 사용된다."
+218,옥살산 2수화물,,시약준비실,5,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/111054_represent?1405491180,,"옥살산 2수화물은 무색의 결정 형태로, 주로 금속 표면 처리나 청소에 사용된다. 산화 방지제나 표백제로도 쓰인다."
+219,옥살산 나트륨,,시약준비실,2,1,https://www.sciencelove.co.kr/shopimages/science/mobile/6/408696_represent?1538571330,,"옥살산 나트륨은 주로 표백제나 금속 세척제로 사용되며, 수용성이다. 화학 실험에서 산화제 역할을 한다."
+220,옥살산암모늄,,시약준비실,5,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/111719_represent?1437426014,,"옥살산암모늄은 무색의 결정으로, 금속 처리와 염색에서 중요한 역할을 한다. 용해도가 높아 화학 반응에 쉽게 사용된다."
+221,옥살산칼륨1수화물,,시약준비실,3,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/5/110765_represent?1404984505,,"옥살산칼륨 1수화물은 옥살산의 칼륨염으로, 주로 분석 화학 실험에서 적정제로 사용된다."
+222,옥수수전분,,시약준비실,8,3,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/130723_represent?1548067966,,"옥수수전분은 천연 고분자로, 주로 식품 제조나 화학 공정에서 점성을 부여하는 물질로 사용된다."
+223,올리브오일,,시약준비실,8,1,없는 것 같음,,"올리브오일은 보습 및 영양 공급에 뛰어난 식물성 기름으로, 화장품이나 요리에 자주 사용된다. 항산화 성분이 풍부하다."
+224,요소,,시약준비실,7,2,https://officeahn.co.kr/shopimages/officeahn/mobile/2/133192_represent?1548119303,,"요소는 질소 비료로 사용되며, 단백질 대사 과정에서 생성되는 유기 화합물이다. 주로 농업과 화학 산업에서 활용된다."
+225,요오드 (액체),,시약준비실,4,24,https://m.sangamall.co.kr/web/product/big/201705/2882_shop1_156878.jpg,,"요오드는 살균제나 염색제로 사용되며, 의료 분야에서 소독 목적으로 널리 쓰인다. 또한 갑상선 기능에 중요한 역할을 한다."
+226,요오드(고체),,시약준비실,1,2,https://upload.wikimedia.org/wikipedia/commons/0/0a/Sample_of_iodine.jpg,,"요오드(고체)는 결정성 물질로, 주로 소독제나 화학 실험에서 사용된다. 고체 상태에서는 휘발성이 있다."
+227,요오드산칼륨,,시약준비실,3,15,https://officeahn.co.kr/shopimages/officeahn/mobile/8/179848_represent?1643499543,,"요오드산칼륨은 강력한 산화제 역할을 하며, 주로 화학 실험이나 산업 공정에서 사용된다."
+228,유기농시어버터,,시약준비실,8,1,https://m.ecofactory.co.kr/data/goods/1/2010/10/10224_tmp_b2915b10e9938d6007abc44eb81927d43023large.jpg,,"유기농 시어버터는 피부 보습과 보호에 탁월한 천연 보습제로, 주로 건성 피부 개선에 사용된다. 풍부한 비타민 E와 항산화 성분이 들어 있어 피부 장벽을 강화한다."
+229,이산화망간,,시약준비실,1,1,https://www.sciencelove.co.kr/shopimages/science/mobile/3/408743_represent?1538474574,,"이산화망간은 주로 산화제로 사용되며, 화학 실험이나 건전지 제조에 필수적이다. 또한 색소나 도자기 제조에도 활용된다."
+230,이소프로필알콜 ,,시약준비실,6,3,https://img.danawa.com/prod_img/500000/341/131/img/13131341_1.jpg?_v=20210113135632,,"이소프로필알콜은 소독제와 용매로 사용되며, 살균력과 휘발성이 높아 손 소독제나 의료용으로 자주 쓰인다."
+231,인디고카민용액,,시약준비실,4,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/133123_represent?1547906691,,"인디고카민용액은 염료로 사용되는 파란색 용액으로, 주로 생물학적 염색이나 염료로 사용된다."
+232,인산,,시약준비실,5,5,https://sciencelove.co.kr/shopimages/science/mobile/6/345366_represent?1537945410,,"인산은 무색의 액체로, 주로 화학 합성, 비료 제조, 음식의 산도 조절 등에 사용된다. 매우 산성으로 취급 시 주의가 필요하다."
+233,제 2구리 용액,,시약준비실,1,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/0/131040_represent?1548046469,,"제 2구리 용액은 구리 이온을 포함한 용액으로, 주로 화학 실험에서 산화 환원 반응을 연구하는 데 사용된다."
+234,제이인산칼륨,,시약준비실,3,1,https://gdimg.gmarket.co.kr/3717631756/still/280?ver=1713215202,,"제이인산칼륨은 비료와 화학 반응에서 중요한 역할을 하며, 주로 토양 개량제나 식물 성장 촉진제로 사용된다."
+235,제일인산칼륨,,시약준비실,3,1,https://gdimg.gmarket.co.kr/3717631756/still/280?ver=1713215202 (위랑 다른 거긴 한데 사진을 못찾겠어서 걍 같은 거 넣음),,"제일인산칼륨은 인산염의 일종으로, 주로 비료나 동물 사료의 영양 강화제로 사용된다."
+236,주석산나트륨칼륨 4수화물,,시약준비실,3,1,https://officeahn.co.kr/shopimages/officeahn/mobile/7/110747_represent?1437693522,,"주석산나트륨칼륨 4수화물은 주석산염의 나트륨과 칼륨 혼합물로, 주로 화학적 촉매나 산화제로 사용된다."
+237,중조,,시약준비실,2,1,https://hssci.co.kr/web/product/medium/sciencestarshop_16992.JPG,,"중조(탄산수소나트륨)는 주로 베이킹 소다로 알려져 있으며, 산과 반응하여 이산화탄소를 생성하는 특징이 있다. 화학 실험과 요리에 사용된다."
+238,중크롬산칼륨,,시약준비실,3,2,https://hssci.co.kr/web/product/medium/sciencestarshop_1965.JPG,,"중크롬산칼륨은 산화제 역할을 하며, 주로 금속 도금이나 염색에서 사용된다. 독성이 강해 취급 시 주의가 필요하다."
+239,중트크롬산칼륨용액,,시약준비실,3,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_dKTZqObUwRSvjoTmU07f7urf7GV8hYp3w&s,,"중크롬산칼륨용액은 중크롬산칼륨을 포함한 수용액으로, 주로 금속의 산화나 표면 처리에 사용된다."
+240,질산,,시약준비실,5,3,https://officeahn.co.kr/shopimages/officeahn/mobile/5/160985_represent?1560500770,,"질산은 강한 산성 물질로, 주로 금속 처리나 화학 합성에서 사용된다. 매우 부식성이 강하므로 취급 시 주의가 필요하다."
+241,질산나트륨,,시약준비실,2,1,https://cafe24.poxo.com/ec01/he201820/HOvhRhvOk+Cp2KY4JuusAjlMOEtjc5iq9hbF1jVsI4i4c1HRH2R0N1Y2D2oUph8wRO0XgG+DjO5jhi4yYCXKnA==/_/web/product/big/201905/0817defb83ac652d567c2593bb48a9f7.jpg,,"질산나트륨은 주로 비료나 화학 실험에서 산화제로 사용되며, 가연성 물질과의 반응이 강력하다."
+242,질산납,,시약준비실,1,2,https://hssci.co.kr/web/product/medium/sciencestarshop_2242.JPG,,"질산납은 주로 도금이나 염색에서 사용되며, 매우 독성이 강해 주의가 필요하다."
+243,질산납 용액,,시약준비실,1,1,https://cafe24.poxo.com/ec01/thewonscience/HOvhRhvOk+Cp2KY4JuusAnMbsJTQKwcP09iwEpvKlfYdoCDITk50GxcBghzPiKu0AOCLzLcK4+Li+aTBuoOsjg==/_/web/product/big/201805/5738_shop1_15277634646989.jpg,,"질산납 용액은 질산납을 포함한 수용액으로, 주로 금속 도금이나 화학 실험에서 사용된다."
+244,질산바륨,,시약준비실,1,1,https://officeahn.co.kr/shopimages/officeahn/mobile/0/115660_represent?1633522784,,"질산바륨은 바륨 화합물로, 주로 폭약 제조나 화학 실험에서 산화제로 사용된다. 독성이 강해 취급에 주의가 필요하다."
+245,질산암모늄,,시약준비실,5,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_2251.JPG,,"질산암모늄은 강력한 산화제로, 주로 비료나 폭약 제조에 사용된다. 열에 민감해 폭발 위험이 있다."
+246,질산은,,시약준비실,1,5,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/136123_represent?1541500530,,"질산은은 주로 항균제나 도금에서 사용되며, 상처 소독에도 활용된다. 빛에 민감하여 보관 시 어두운 곳에 두어야 한다."
+247,질산칼륨,,시약준비실,3,4,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_2256.JPG,,"질산칼륨은 주로 비료와 화약 제조에 사용되며, 산화제로서 화학적 반응에 중요한 역할을 한다."
+248,철 가루,,시약준비실,1,1,https://m.firstsci.co.kr/web/product/big/sciencestarshop_1970.JPG,,"철 가루는 금속 가공이나 화학 반응에서 사용되며, 철분 보충제로도 활용된다. 매우 미세한 입자로 되어 있어 반응성이 높다."
+249,초산 나트륨 3수화물,,시약준비실,2,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/5/110495_represent?1632795299,,"초산 나트륨 3수화물은 수분을 포함한 초산 나트륨으로, 주로 화학 실험에서 사용된다. 열을 가하면 탈수되어 무수 형태로 변한다."
+250,초파리등장액,,시약준비실,8,2,https://www.biozoa.co.kr/data/goods/1/2020/07/396_tmp_93881f9342010d5f29b726f2c362a8897380list1.jpg,,"초파리등장액은 초파리 실험에서 등장액으로 사용되며, 실험 생물의 체액 농도를 유지하는 데 도움을 준다."
+251,카페인,,시약준비실,8,1,https://officeahn.co.kr/shopimages/officeahn/mobile/3/165563_represent?1569250050,,"카페인은 중추신경계를 자극하는 물질로, 각성 효과가 있어 음료나 의약품에 자주 사용된다."
+252,칼슘 젖산염,,시약준비실,3,1,https://godomall.speedycdn.net/0586ac46946873da84d2dab84e75df66/goods/1000000472/image/detail/1000000472_detail_093.jpg,,"칼슘 젖산염은 칼슘 보충제로, 체내에서 쉽게 흡수된다. 주로 건강 보조제나 식품 첨가물로 사용된다."
+253,크롬산칼륨,,시약준비실,3,1,https://m.roroworld.kr/web/product/big/202309/0ff79173410f264e307fbb7c52314b29.jpg,,"크롬산칼륨은 강력한 산화제로, 주로 금속 표면 처리나 염색에 사용된다. 독성이 강하고 환경에 유해할 수 있다."
+254,크리스탈 바이올렛,,시약준비실,4,2,https://www.biozoa.co.kr/data/goods/1/2020/07/550_tmp_ba160849c4918f6da53d766bc3511cd02502list1.jpg,,"크리스탈 바이올렛은 세포 염색에 사용되는 보라색 염료로, 그람 염색에서 세균을 구분하는 데 도움을 준다."
+255,클로로폼,,시약준비실,6,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMajFCkQXg5U99vCH4XtR_w_Te7hirHKhn6Q&s,,"클로로폼은 무색의 휘발성 액체로, 주로 용매나 마취제로 사용된다. 독성이 있어 취급에 주의해야 한다."
+256,키토산,,시약준비실,7,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47u2YdnTKKqrisHL1ykj4E9Eev9_Z5wbv7g&s,,"키토산은 갑각류에서 추출한 천연 고분자로, 생물학적 응용이나 의료용으로 많이 사용된다. 상처 치유와 항균 효과가 있다."
+257,타닌산,,시약준비실,5,1,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/202307/41f5c4d9c3d320061161788e06cacfad.jpg,,"타닌산은 수렴제 성질을 가진 천연 물질로, 주로 염색이나 식품 보존, 약용으로 사용된다. 항산화 효과도 가지고 있다."
+258,탄산수소나트륨,,시약준비실,2,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/110424_represent?1630303870,,"탄산수소나트륨은 베이킹 소다로 알려져 있으며, 주로 제빵이나 청소용으로 사용된다. 산과 반응하여 이산화탄소를 발생시킨다."
+259,탄산칼슘,,시약준비실,3,5,https://sciencelove.co.kr/shopimages/science/mobile/1/338981_represent?1535970793,,"탄산칼슘은 주로 석회석에서 얻어지며, 건축 자재나 칼슘 보충제로 사용된다. 물에 거의 녹지 않으며, 강한 알칼리성을 띤다."
+260,톨루엔,,시약준비실,6,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/0/127500_represent?1430372751,,"톨루엔은 무색의 액체로, 주로 유기용매나 화학 합성에 사용된다. 페인트 희석제나 접착제 제조에도 널리 쓰인다."
+261,톨루이딘블루(TBO),,시약준비실,4,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/8/130718_represent?1633424577,,"톨루이딘블루(TBO)는 염색 시약으로, 세포나 조직의 염색에 사용된다. 특히 핵산과 강하게 결합하여 세포핵을 선명하게 염색한다."
+262,트리클로로아새트산,,시약준비실,5,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/112773_represent?1407847817,,"트리클로로아세트산은 강력한 산성 물질로, 주로 단백질 침전이나 화학 합성에서 사용된다. 피부에 자극을 줄 수 있으므로 주의가 필요하다."
+263,트립톤,,시약준비실,8,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/1/109841_represent?1415257223,,"트립톤은 단백질 분해산물로, 미생물 배양에 사용되는 중요한 영양원이다. 아미노산이 풍부하여 생물학 실험에서 필수적이다."
+264,트윈 80 (폴리소베이트 80),,시약준비실,8,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/127714_represent?1430729338,,"트윈 80(폴리소베이트 80)은 비이온성 계면활성제로, 주로 유화제나 분산제로 사용된다. 의약품, 화장품 및 식품 제조에서 널리 쓰인다."
+265,티오황산나트륨,,시약준비실,2,1,https://m.roroworld.kr/web/product/big/202408/a416c1878523cbda4359cb187743ab2b.jpg,,"티오황산나트륨은 주로 사진 현상에서 고정제로 사용되며, 화학 실험에서는 환원제로 활용된다."
+266,티오황샅나트륨용액,,시약준비실,2,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/133499_represent?1547935949,,"티오황산나트륨용액은 티오황산나트륨을 포함한 용액으로, 주로 화학 실험에서 산화 환원 반응에 사용된다."
+267,페놀프탈레인용액,,시약준비실,4,17,https://cafe24.poxo.com/ec01/hsookyoun03/w3/z2ScBTTyHtl8+qjMfluo/dAvH/ybI2t1bTVkJJ8koE996SVOMK7eGwxsV5BTs2KtFCGRglWXI8HDCZ1CG9A==/_/web/product/big/20200513/fc050f37eb2f338f8c7d5a2b5a5b3eff.jpg,,"페놀프탈레인용액은 산염기 지시약으로, 산성에서는 무색이고 염기성에서는 분홍색으로 변하는 특징이 있다."
+268,페리시안화칼륨,,시약준비실,3,1,https://cafe24.poxo.com/ec01/thewonscience/HOvhRhvOk+Cp2KY4JuusAnMbsJTQKwcP09iwEpvKlfYdoCDITk50GxcBghzPiKu0AOCLzLcK4+Li+aTBuoOsjg==/_/web/product/big/201805/5726_shop1_15277631906278.jpg,,"페리시안화칼륨은 주로 도금이나 금속 표면 처리에서 사용되며, 매우 안정적인 결정 구조를 가지고 있다."
+269,펩톤,,시약준비실,7,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/172199_represent?1594687766,,"펩톤은 단백질의 가수분해 산물로, 미생물 배양에서 영양 공급원으로 사용된다."
+270,포도당,,시약준비실,7,8,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_1978.JPG,,"포도당은 단당류로, 생명체의 주요 에너지원이다. 식품이나 의약품에서 에너지원으로 사용된다."
+271,포비돈,,시약준비실,8,1,https://www.seilglobal.co.kr/shopimages/seil2875/245002000001.jpg?1625197747,,"포비돈은 의약품에서 소독제나 방부제로 사용되며, 피부에 자극이 적어 상처 소독에 자주 쓰인다."
+272,폴리비닐알콜,,시약준비실,7,2,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_1988.JPG,,"폴리비닐알콜은 물에 잘 녹는 고분자 화합물로, 접착제나 필름 제조에 사용된다. 생체 적합성이 있어 의료용 제품에도 쓰인다."
+273,폴리비닐황산칼슘,,시약준비실,3,1,안떠아마?,,"폴리비닐황산칼슘은 고분자로, 주로 산업적 응용에서 필터나 흡착제로 사용된다."
+274,폴리아크릴산나트륨,,시약준비실,"2, 6",2,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/sciencestarshop_1988.JPG,,"폴리아크릴산나트륨은 물을 흡수하는 성질을 가진 고분자로, 기저귀나 습기 흡수제 등에 사용된다."
+275,폼알데하이드용액,,시약준비실,6,2,https://m.sangamall.co.kr/web/product/big/201904/ea4c0e65deb1bc178eed19fd23ad189f.jpg,,"폼알데하이드용액은 주로 방부제나 소독제로 사용되며, 강력한 항균 효과를 가진다."
+276,표준완충용액 ph 11,,시약준비실,6,2,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/174517_represent?1616555807,,"표준완충용액 pH 11는 강한 염기성 용액으로, 화학 실험에서 반응의 pH를 조절하거나 유지하는 데 사용된다."
+277,표준완충용액 ph 12,,시약준비실,6,1,https://cdn.imweb.me/thumbnail/20230827/24c133f3c8c2b.jpg,,"표준완충용액 pH 12는 강한 염기성 용액으로, 화학 실험에서 반응의 pH를 조절하거나 유지하는 데 사용된다."
+278,표준완충용액 ph 4.01,,시약준비실,6,1,https://officeahn.co.kr/shopimages/officeahn/mobile/4/174524_represent?1616556126,,"표준완충용액 pH 4.01은 산성 용액으로, 주로 pH 측정 장비를 보정하거나 실험에서 pH를 일정하게 유지하는 데 사용된다."
+279,표준완충용액 ph 7,,시약준비실,6,1,https://hssci.co.kr/web/product/medium/wq76.jpg,,"표준완충용액 pH 7은 중성 pH를 가진 용액으로, 화학 실험에서 중성 상태를 유지하기 위해 사용되며, 장비 보정에도 사용된다."
+280,표준완충용액 ph 9,,시약준비실,6,1,https://cdn.imweb.me/thumbnail/20230721/6e195e75f3580.jpg,,"표준완충용액 pH 9는 약한 염기성 용액으로, 실험 중 pH를 일정하게 유지하거나 측정 장비의 보정을 위해 사용된다."
+281,한천가루,,시약준비실,8,3,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/small/sciencestarshop_17012.JPG,,"한천가루는 미생물 배양에 사용되는 고체 배지로, 주로 세균이나 곰팡이의 배양에 중요한 역할을 한다. 해조류에서 추출한 다당류로 이루어져 있다."
+282,항생제용액,,시약준비실,8,1,https://i.namu.wiki/i/vlpYM7mmNjyE6pOF2rzT06xWYsEFjdoYgH-8tV8k3HsXD-c570a6sr-h-KSGtI5gYaCN-l53J7VUAzGQGsd13A.webp,,"항생제용액은 박테리아 성장을 억제하거나 죽이는 역할을 하며, 주로 세균 배양 실험에서 오염을 방지하기 위해 사용된다."
+283,활성탄소,,시약준비실,1,1,누가 봐도 활선 아니고 활성이라서 고쳐둠 https://m.firstsci.co.kr/web/product/big/sciencestarshop_2331.JPG,,"활선탄소는 매우 미세한 기공을 가진 탄소 물질로, 주로 정수기 필터나 흡착제로 사용된다. 유독 물질을 흡착하여 정화하는 데 효과적이다."
+284,활성과립효모,,시약준비실,8,1,https://hssci.co.kr/web/product/medium/bz160.jpg,,"활성과립효모는 미생물 배양이나 발효 과정에서 사용되는 활성화된 효모로, 주로 발효식품이나 술 제조에 사용된다."
+285,황산,,시약준비실,5,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_1992.JPG,,"황산은 매우 강한 산성 용액으로, 금속 처리, 비료 제조, 화학 실험 등 다양한 산업에서 핵심적으로 사용된다."
+286,황산 마그네슘 1수화물,,시약준비실,1,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/2/177092_represent?1633253979 (없어서 이거랑 밑에 있는 거 둘다 1수화물 7수화물 무시하고 용액 넣음),,"황산 마그네슘 1수화물은 물을 포함한 황산 마그네슘으로, 주로 의약품, 비료, 그리고 화학 실험에 사용된다."
+287,황산 마그네슘 7수화믈,,시약준비실,1,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/2/177092_represent?1633253979,,"황산 마그네슘 7수화물은 흔히 ‘엡솜 소금’으로 알려져 있으며, 완화제나 식물 비료로 사용된다. 물에 잘 녹으며 흡습성이 뛰어나다."
+288,황산 마그네슘 무수물,,시약준비실,1,3,https://cafe24.poxo.com/ec01/hssci/w3/z2ScBTTyHtl8+qjMfluaZTu1d5DO9QWsikghlQHa2rj/2Gph8QFTY0GLWfi+T/_/web/product/big/201906/54569eb0bef7acece7cf2263a41e09f8.jpg,,"황산 마그네슘 무수물은 수분이 제거된 상태의 황산 마그네슘으로, 건조제나 화학 반응에서 사용된다."
+289,황산 아연 7수화물,,시약준비실,1,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/6/151686_represent?1633247490,,"황산 아연 7수화물은 백색 결정으로, 주로 미생물 배양이나 비료, 의약품에서 사용된다."
+290,황산 제2구리 5수화물,,시약준비실,1,10,https://www.officeahn.co.kr/shopimages/officeahn/mobile/4/151714_represent?1633258676,,"황산 제2구리 5수화물은 흔히 구리 황산염으로 알려져 있으며, 주로 살충제나 살균제로 사용된다."
+291,황산 제일철 7수화물,,시약준비실,1,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/7/111367_represent?1404447439,,"황산 제일철 7수화물은 철 이온을 포함한 수화물로, 주로 화학 실험에서 산화 환원 반응에 사용된다."
+292,황산 철 암모늄 6수화물,,시약준비실,1,1,https://thumbnail6.coupangcdn.com/thumbnails/remote/492x492ex/image/vendor_inventory/938c/47093c2317423b2a37e7c921c3286632f5e84d6b35973d36acdfa1d869e7.jpg,,"황산 철 암모늄 6수화물은 주로 비료나 화학 실험에서 사용되며, 염색 과정에서도 중요한 역할을 한다."
+293,황산수소나틀륨용액,,시약준비실,2,1,https://officeahn.co.kr/shopimages/officeahn/mobile/1/177091_represent?1633249219,,"황산수소나트륨용액은 약한 산성을 띠며, 주로 화학 실험에서 pH 조절제로 사용된다."
+294,황산암모늄용액,,시약준비실,5,1,https://m.hssci.co.kr/web/product/small/sciencestarshop_2011.JPG,,"황산암모늄용액은 주로 비료로 사용되며, 질소 공급원으로 작용하여 식물 성장에 도움을 준다."
+295,황산칼슘,,시약준비실,3,1,https://hssci.co.kr/web/product/medium/sciencestarshop_2350.JPG,,"황산칼슘은 주로 건축 자재나 의약품에서 사용되며, 석고로도 잘 알려져 있다. 건조제나 응급처치용 붕대에도 활용된다."
+296,효모,,시약준비실,8,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/9/151789_represent?1547774183,,"효모는 발효 과정에서 중요한 역할을 하며, 빵, 술, 발효식품 등의 제조에 필수적이다. 미생물로서 설탕을 알코올과 이산화탄소로 변환한다."
+297,B.C.G solution,,시약준비실,4,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/3/151023_represent?1547903115,,"B.C.G solution은 브롬크레솔그린을 포함한 용액으로, pH 지시약으로 사용된다. 산성에서 노란색, 염기성에서 파란색으로 변한다."
+298,Bacto malt extract,,시약준비실,8,1,https://m.labsup.kr/data/goods/1/2019/02/9776_tmp_9edc1e2052bd3b53a93ff8007cfad42d9325list1.gif,,Bacto malt extract는 주로 미생물 배양에서 영양 공급원으로 사용되는 추출물이다. 효모나 박테리아 배양에 필요한 필수 성분을 제공한다.
+299,BTB 용액,,시약준비실,4,1,https://www.officeahn.co.kr/shopimages/officeahn/mobile/6/130776_represent?1547896565,,"BTB 용액은 브로모티몰블루를 포함한 용액으로, pH 지시약으로 사용된다. 산성에서 노란색, 염기성에서 파란색으로 변하는 특성을 지닌다."
+300,D-갈락토오즈 용액,,시약준비실,8,2,https://officeahn.co.kr/shopimages/officeahn/mobile/4/70264_represent?1547901212,,"D-갈락토오즈 용액은 단당류인 갈락토오즈를 포함한 용액으로, 주로 생화학 실험에서 사용된다. 특히 세포 내 대사 과정을 연구할 때 활용된다."
+301,D-만니톨,,시약준비실,7,1,https://officeahn.co.kr/shopimages/officeahn/mobile/6/126016_represent?1428156197,,"D-만니톨은 단당류로, 주로 의약품, 식품 첨가물로 사용되며, 삼투 성질을 이용한 실험에서도 자주 쓰인다."
+302,EDTA-2NA dihydrate,,시약준비실,7,1,https://officeahn.co.kr/shopimages/officeahn/mobile/0/112390_represent?1409320941,,"EDTA-2NA dihydrate는 금속 이온을 킬레이트하여 제거하는 용도로 사용되며, 주로 화학 실험에서 킬레이트 시약으로 사용된다."
+303,L-아스코빈산,,시약준비실,5,6,https://officeahn.co.kr/shopimages/officeahn/mobile/0/113000_represent?1412152298,,"L-아스코빈산은 비타민 C로 알려져 있으며, 항산화제로 작용하며 주로 건강 보조제나 화장품에서 사용된다."
+304,LB agar high salt,,시약준비실,8,2,https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/279/277/0b2c21ab-b985-4eec-af57-b6be26334d89/640/0b2c21ab-b985-4eec-af57-b6be26334d89.jpg,,"LB agar high salt는 미생물 배양에 사용되는 고농도의 소금이 포함된 한천 배지로, 세균의 선택적 배양에 사용된다."
+305,LB-Broth,,시약준비실,8,3,https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/product/images/414/427/bda3be88-6777-49c2-91a2-c08e372018bc/640/bda3be88-6777-49c2-91a2-c08e372018bc.jpg,,"LB-Broth는 미생물 배양에 사용되는 액체 배지로, 박테리아 성장을 촉진하는 필수 영양소가 포함되어 있다."
+306,M3148,,시약준비실,7,1,https://ideacdn.net/shop/cr/66/myassets/products/590/2-mercaptoethanol.png?revision=1708209401,,"M3148은 특정 화학 물질이나 혼합물로, 주로 생화학 실험에서 사용되며, 세포 배양이나 단백질 분석에 도움을 준다."
+307,Ph sensor storage solutioun,,시약준비실,6,1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNBCqUEduPDom2daVQmcwUdh7N5cWmFbgKMw&s,,"pH sensor storage solution은 pH 센서를 보관할 때 사용하는 용액으로, 센서의 정확한 기능을 유지하기 위해 사용된다."
+308,PTC 용액,,시약준비실,6,1,https://officeahn.co.kr/shopimages/officeahn/mobile/2/130732_represent?1548021091,,"PTC 용액은 특정 화합물을 포함한 용액으로, 주로 유전학 실험에서 사용된다. 특히 유전적 미각 반응을 연구할 때 이용된다."
+309,Three step stain set,,시약준비실,4,1,https://www.henryschein.com/Products/1082773_US_Front_01_600x600.jpg,,"Three step stain set은 세포 염색에 사용하는 세 가지 시약 세트로, 주로 세포 구조를 명확하게 구분하는 데 사용된다."
+310,Tryptone soya broth,,시약준비실,8,1,https://www.sigmaaldrich.com/content/dam/sigma-aldrich/product0/182/tryptone-soya-broth-without-dextrose_t3938-500g_0069433_btl.tif/_jcr_content/renditions/tryptone-soya-broth-without-dextrose_t3938-500g_0069433_btl-large.jpg,,"Tryptone soya broth는 미생물 배양에 사용되는 액체 배지로, 박테리아 성장을 위한 필수 영양소가 포함되어 있다."
+311,ph 측정기,3,여기는 도대체 출처가 어딘가요,,,주연이가하지말래,,용액의 산성도나 알칼리성을 측정하는 장치이다.
+312,3치원가속도센서,4,,,,,,물체의 가속도와 방향을 3차원으로 측정하는 센서이다.
+313,Logger pro3,4,,,,,,"실험 데이터를 수집하고 분석하는 소프트웨어로, 다양한 센서와 호환된다."
+314,Par sensor,4,,,,,,식물의 광합성에 영향을 미치는 유효한 빛을 측정하는 센서이다.
+315,TLC판(박층 크로마토 그래피 플레이트),3,,,,,,화합물을 분리하고 분석하기 위한 평면 크로마토그래피 장치이다.
+316,UV 멸균기,3,,,,,,자외선을 이용해 표면이나 공기 중의 세균을 제거하는 장치이다.
+317,거즈,3,,,,,,실험에서 액체를 걸러내거나 감싸는 데 사용하는 천이나 필터이다.
+318,교반기,1,,,,,,액체를 혼합하거나 교반하는 데 사용하는 기계적 장치이다.
+319,기체압력센서,4,,,,,,기체의 압력을 측정하는 데 사용되는 센서이다.
+320,당도계,3,,,,,,"액체의 당도, 즉 설탕 농도를 측정하는 장치이다."
+321,동작 탐지기,4,,,,,,"움직임을 감지하는 장치로, 보안 시스템이나 자동화에 사용된다."
+322,랩,2,,,,,,실험을 수행하는 공간이나 환경을 의미한다.
+323,마그네틱바,2,,,,,,자석으로 되어 있어 교반기에서 액체를 혼합하는 데 사용된다.
+324,마이크로피펫,3,,,,,,소량의 액체를 정확하게 측정하고 옮기는 데 사용하는 도구이다.
+325,멸균주사바늘,3,,,,,,"멸균된 상태에서 사용하는 주사바늘로, 의료 및 실험에 사용된다."
+326,미세먼지 측정기,3,,,,,,공기 중의 미세먼지 농도를 측정하는 장치이다.
+327,믹서기,2,,,,,,재료를 혼합하거나 갈아내는 전자기기이다.
+328,봉합실험용 인공피부,3,,,,,,봉합 실험을 위한 인체 피부를 모사한 물질이다.
+329,산도측정지,3,,,,,,"용액의 산성도를 측정하는 지표로, 색상 변화로 결과를 나타낸다."
+330,산소가스 센서,4,,,,,,산소 농도를 측정하는 센서이다.
+331,삼발이,1,,,,,,실험 기구를 고정하기 위해 사용하는 지지대이다.
+332,스테인리스온도센서,4,,,,,,높은 온도에서 신뢰성 있게 온도를 측정하는 센서이다.
+333,스포이드 10ml,2,,,,,,10ml 용량의 액체를 흡입하고 방출하는 도구이다.
+334,스포이드 3ml,2,,,,,,3ml 용량의 액체를 흡입하고 방출하는 도구이다.
+335,스포이드 5ml,2,,,,,,5ml 용량의 액체를 흡입하고 방출하는 도구이다.
+336,시린지 주사기,2,,,,,,액체를 흡입하고 주입하는 데 사용하는 도구이다.
+337,시약병,1,,,,,,화학 시약을 보관하는 용기이다.
+338,식품온도계,2,,,,,,식품의 온도를 측정하는 장치이다.
+339,신성거즈,3,,,,,,세균 및 미세한 입자를 걸러내는 데 사용되는 거즈이다.
+340,아스피레타,3,,,,,,액체를 빨아들이거나 방출하는 데 사용하는 도구이다.
+341,알코올램프,1,,,,,,알코올을 연료로 사용하여 열을 발생시키는 장치이다.
+342,약수저,2,,,,,,액체를 측정하거나 옮기는 데 사용되는 작은 숟가락이다.
+343,여과지,2,,,,,,액체를 걸러내는 데 사용하는 종이나 필터이다.
+344,오토클레이브용 내열장갑,1,,,,,,오토클레이브에서 고온의 장비를 다룰 때 사용하는 방열 장갑이다.
+345,유리막대,2,,,,,,실험에서 혼합이나 교반에 사용하는 유리로 된 막대이다.
+346,유리모세관,3,,,,,,액체의 이동이나 샘플링에 사용되는 얇은 유리관이다.
+347,이온 선택 전극,4,,,,,,특정 이온의 농도를 측정하기 위해 설계된 전극이다.
+348,일회용 주사기,3,,,,,,"사용 후 폐기할 수 있는 주사기로, 의료 및 실험에 사용된다."
+349,자기장센서,4,,,,,,자기장의 세기 및 방향을 측정하는 센서이다.
+350,자외선 센서,4,,,,,,자외선의 강도를 측정하는 장치이다.
+351,적외선 온도계,4,,,,,,물체의 표면 온도를 비접촉식으로 측정하는 장치이다.
+352,전도도 센서,4,,,,,,용액의 전기 전도도를 측정하는 센서이다.
+353,전자저울,2,,,,,,물체의 무게를 정밀하게 측정하는 장치이다.
+354,점화기,1,,,,,,불을 붙이는 데 사용하는 장치이다.
+355,조도센서,4,,,,,,주변의 빛의 세기를 측정하는 센서이다.
+356,종이크로마토그래피,3,,,,,,특정 물질을 분리하고 분석하기 위한 크로마토그래피 방법이다.
+357,지퍼백,2,,,,,,내용물을 밀봉하여 보관할 수 있는 비닐 봉투이다.
+358,초음파겔,2,,,,,,초음파 검사 시 피부와 기계 사이의 접촉을 돕는 젤이다.
+359,초음파세척기,2,,,,,,초음파를 이용해 물체의 표면을 세척하는 장치이다.
+360,치아모형,3,,,,,,치과 교육 및 연구를 위한 인체 치아의 모형이다.
+361,카스 염도계,3,,,,,,"액체의 염도, 즉 소금 농도를 측정하는 장치이다."
+362,캡슐 충진기,4,,,,,,약물을 캡슐에 충진하는 데 사용하는 장비이다.
+363,크로마토그래피용 석영 모래,3,,,,,,크로마토그래피에서 분리 매체로 사용되는 고순도의 모래이다.
+364,크로마토그래피용 유리모세관,3,,,,,,크로마토그래피에서 샘플을 이동시키는 데 사용되는 유리 모세관이다.
+365,클램프,1,,,,,,실험 기구를 고정하거나 지지하는 도구이다.
+366,탈지면,3,,,,,,기름이나 불순물을 제거하는 데 사용하는 면이다.
+367,토양 PH 측정기,3,,,,,,토양의 산성도 또는 알칼리성을 측정하는 장치이다.
+368,파라필름,2,,,,,,실험실에서 샘플을 밀봉하거나 보호하는 데 사용하는 필름이다.
+369,풍속센서,4,,,,,,바람의 속도를 측정하는 장치이다.
+370,피부용 스태플,3,,,,,,"피부를 봉합하는 데 사용되는 의료용 스태플러로, 상처를 빠르고 안전하게 닫는 데 도움을 준다."
+371,피펫팁,3,,,,,,액체를 정확하게 흡입하고 분주하기 위해 피펫 끝에 장착되는 도구이다.
+372,핀셋,2,,,,,,작은 물체를 집거나 조작하는 데 사용되는 정밀한 도구이다.
+373,핫플레이트,1,,,,,,실험실에서 액체를 가열하는 데 사용되는 평평한 전기 히터다.
+374,해수용 인측정기,3,,,,,,"해수의 다양한 물리적, 화학적 특성을 측정하는 기기이다."
+375,해수용 질소측정기,3,,,,,,해수 내 질소 농도를 측정하여 수질 분석에 활용되는 장비이다.
+376,호일,2,,,,,,실험에서 샘플을 덮거나 보호하는 데 사용되는 얇은 금속 시트이다.
+377,혼탁도 측정센서,4,,,,,,액체의 혼탁도를 측정하여 물리적 특성을 평가하는 센서이다.
+378,환경측정기,4,,,,,,"대기, 수질, 토양 등 환경 요소를 측정하는 다양한 센서를 포함하는 기기이다."
+379,회전증발농축기 유리기구,4,,,,,,용액을 가열하여 용매를 증발시키고 농축하는 데 사용되는 유리 장비이다.
+380,벤치탑미터,,,,,,,다양한 물리적 및 화학적 매개변수를 측정하는 실험실용 기기이다.
+381,탁상용원심분리기,,,,,,,샘플을 원심력으로 분리하여 성분을 분리하는 데 사용되는 기계이다.
+382,전기식 아스피레이터,,,,,,,진공을 생성하여 액체를 흡입하는 데 사용되는 전기 장치이다.
+383,회전식 농축기,,,,,,,용액을 회전시켜 용매를 제거하고 농축하는 장비이다.
+384,미생분광 광도계,,,,,,,미생물의 농도를 측정하기 위해 빛의 흡수도를 분석하는 기기이다.
+385,멀티쉐이커,,,,,,,여러 개의 샘플을 동시에 흔들어 혼합하는 데 사용되는 장비이다.
+386,정속제어교반응,,,,,,,액체를 일정한 속도로 교반하여 혼합하는 데 사용되는 장치이다
+387,labquest,,,,,,,다양한 실험 데이터를 수집하고 분석하는 데 사용되는 포터블 데이터 수집 장치이다.
+388,오토클레이브,,,,,,,"고온과 고압을 이용해 멸균하는 장비로, 실험실에서 세균 및 바이러스를 제거하는 데 사용된다."
+389,세균배양기,,,,,,,세균이나 미생물을 배양하기 위해 온도와 습도를 조절하는 장비이다.
+390,용광로,,,,,,,고온에서 금속이나 기타 물질을 녹이는 데 사용되는 장비이다.
+391,항온 순환 수조,,,,,,,"일정한 온도를 유지하며 샘플을 담아 두는 수조로, 실험의 온도 조건을 일정하게 유지하는 데 사용된다."
+392,표본,,생명과학실,20,7,,https://www.youtube.com/watch?v=hAoAmWQIo6c,"연구나 관찰을 위해 준비된 생물체의 일부 또는 전체를 의미하며, 생물학, 화학, 지질학 등 다양한 분야에서 사용됩니다."
+393,렌즈 와이프,,생명과학실,1,6,,,"렌즈를 청소하는 데 사용하는 도구로, 먼지나 지문 등을 제거하여 선명한 이미지를 얻기 위해 사용됩니다."
+394,변압기,,생명과학실,3,6,,https://www.youtube.com/watch?v=-vjv7lI7UVE,"전압을 변환하는 전기 장치로, 교류 전압을 높이거나 낮추는 데 사용되며, 전력 전송 및 분배 시스템에서 중요한 역할을 합니다."
+395,전기영동기,,생명과학실,5,6,,https://www.youtube.com/watch?v=anwLvwb655s,"전기장을 이용해 입자를 이동시키는 장치로, 주로 생화학 실험에서 DNA, 단백질 등을 분리하고 분석하는 데 사용됩니다."
+396,현미경,,생명과학실,16,"2,3,4,5",,https://www.youtube.com/watch?v=fTaj94J81S0,"물체를 확대하여 관찰할 수 있게 해주는 장치로, 생물학적 샘플이나 미세 구조를 연구하는 데 필수적입니다."
+397,발효관,,생명과학실,35,2,,https://www.youtube.com/watch?v=hC2XtpSLnqo,"미생물의 발효 과정을 관찰하고 실험하기 위해 사용하는 용기으로, 일반적으로 유리로 만들어져 있으며, 발효 과정의 결과물을 수집하는 데 사용됩니다."
+398,페트리 접시,,생명과학실,15,1,,https://www.youtube.com/watch?v=9z_KyF4qBow,"세균 배양이나 화학 실험에 사용하는 평평한 원형 용기로, 일반적으로 유리나 플라스틱으로 만들어지며, 배양 매체를 담아 미생물을 기르는 데 사용됩니다."
+399,박보성 바보,,,,,https://w7.pngwing.com/pngs/520/690/png-transparent-red-among-us-cartoons-among-us.png,https://www.youtube.com/watch?v=dQw4w9WgXcQ,"
+NARRATOR:
+(Black screen with text; The sound of buzzing bees can be heard)
+According to all known laws
+of aviation,
+ :
+there is no way a bee
+should be able to fly.
+ :
+Its wings are too small to get
+its fat little body off the ground.
+ :
+The bee, of course, flies anyway
+ :
+because bees don't care
+what humans think is impossible.
+BARRY BENSON:
+(Barry is picking out a shirt)
+Yellow, black. Yellow, black.
+Yellow, black. Yellow, black.
+ :
+Ooh, black and yellow!
+Let's shake it up a little.
+JANET BENSON:
+Barry! Breakfast is ready!
+BARRY:
+Coming!
+ :
+Hang on a second.
+(Barry uses his antenna like a phone)
+ :
+Hello?
+ADAM FLAYMAN:
+
+(Through phone)
+- Barry?
+BARRY:
+- Adam?
+ADAM:
+- Can you believe this is happening?
+BARRY:
+- I can't. I'll pick you up.
+(Barry flies down the stairs)
+ :
+MARTIN BENSON:
+Looking sharp.
+JANET:
+Use the stairs. Your father
+paid good money for those.
+BARRY:
+Sorry. I'm excited.
+MARTIN:
+Here's the graduate.
+We're very proud of you, son.
+ :
+A perfect report card, all B's.
+JANET:
+Very proud.
+(Rubs Barry's hair)
+BARRY=
+Ma! I got a thing going here.
+JANET:
+- You got lint on your fuzz.
+BARRY:
+- Ow! That's me!
+
+JANET:
+- Wave to us! We'll be in row 118,000.
+- Bye!
+(Barry flies out the door)
+JANET:
+Barry, I told you,
+stop flying in the house!
+(Barry drives through the hive,and is waved at by Adam who is reading a
+newspaper)
+BARRY==
+- Hey, Adam.
+ADAM:
+- Hey, Barry.
+(Adam gets in Barry's car)
+ :
+- Is that fuzz gel?
+BARRY:
+- A little. Special day, graduation.
+ADAM:
+Never thought I'd make it.
+(Barry pulls away from the house and continues driving)
+BARRY:
+Three days grade school,
+three days high school...
+ADAM:
+Those were awkward.
+BARRY:
+Three days college. I'm glad I took
+a day and hitchhiked around the hive.
+ADAM==
+You did come back different.
+(Barry and Adam pass by Artie, who is jogging)
+ARTIE:
+- Hi, Barry!
+
+BARRY:
+- Artie, growing a mustache? Looks good.
+ADAM:
+- Hear about Frankie?
+BARRY:
+- Yeah.
+ADAM==
+- You going to the funeral?
+BARRY:
+- No, I'm not going to his funeral.
+ :
+Everybody knows,
+sting someone, you die.
+ :
+Don't waste it on a squirrel.
+Such a hothead.
+ADAM:
+I guess he could have
+just gotten out of the way.
+(The car does a barrel roll on the loop-shaped bridge and lands on the
+highway)
+ :
+I love this incorporating
+an amusement park into our regular day.
+BARRY:
+I guess that's why they say we don't need vacations.
+(Barry parallel parks the car and together they fly over the graduating
+students)
+Boy, quite a bit of pomp...
+under the circumstances.
+(Barry and Adam sit down and put on their hats)
+ :
+- Well, Adam, today we are men.
+
+ADAM:
+- We are!
+BARRY=
+- Bee-men.
+=ADAM=
+- Amen!
+BARRY AND ADAM:
+Hallelujah!
+(Barry and Adam both have a happy spasm)
+ANNOUNCER:
+Students, faculty, distinguished bees,
+ :
+please welcome Dean Buzzwell.
+DEAN BUZZWELL:
+Welcome, New Hive Oity
+graduating class of...
+ :
+...9:
+ :
+That concludes our ceremonies.
+ :
+And begins your career
+at Honex Industries!
+ADAM:
+Will we pick our job today?
+(Adam and Barry get into a tour bus)
+BARRY=
+I heard it's just orientation.
+(Tour buses rise out of the ground and the students are automatically
+loaded into the buses)
+TOUR GUIDE:
+Heads up! Here we go.
+
+ANNOUNCER:
+Keep your hands and antennas
+inside the tram at all times.
+BARRY:
+- Wonder what it'll be like?
+ADAM:
+- A little scary.
+TOUR GUIDE==
+Welcome to Honex,
+a division of Honesco
+ :
+and a part of the Hexagon Group.
+Barry:
+This is it!
+BARRY AND ADAM:
+Wow.
+BARRY:
+Wow.
+(The bus drives down a road an on either side are the Bee's massive
+complicated Honey-making machines)
+TOUR GUIDE:
+We know that you, as a bee,
+have worked your whole life
+ :
+to get to the point where you
+can work for your whole life.
+ :
+Honey begins when our valiant Pollen
+Jocks bring the nectar to the hive.
+ :
+Our top-secret formula
+ :
+is automatically color-corrected,
+
+scent-adjusted and bubble-contoured
+ :
+into this soothing sweet syrup
+ :
+with its distinctive
+golden glow you know as...
+EVERYONE ON BUS:
+Honey!
+(The guide has been collecting honey into a bottle and she throws it into
+the crowd on the bus and it is caught by a girl in the back)
+ADAM:
+- That girl was hot.
+BARRY:
+- She's my cousin!
+ADAM==
+- She is?
+BARRY:
+- Yes, we're all cousins.
+ADAM:
+- Right. You're right.
+TOUR GUIDE:
+- At Honex, we constantly strive
+ :
+to improve every aspect
+of bee existence.
+ :
+These bees are stress-testing
+a new helmet technology.
+(The bus passes by a Bee wearing a helmet who is being smashed into the
+ground with fly-swatters, newspapers and boots. He lifts a thumbs up but
+you can hear him groan)
+ :
+ADAM==
+
+- What do you think he makes?
+BARRY:
+- Not enough.
+TOUR GUIDE:
+Here we have our latest advancement,
+the Krelman.
+(They pass by a turning wheel with Bees standing on pegs, who are each
+wearing a finger-shaped hat)
+Barry:
+- Wow, What does that do?
+TOUR GUIDE:
+- Catches that little strand of honey
+ :
+that hangs after you pour it.
+Saves us millions.
+ADAM:
+(Intrigued)
+Can anyone work on the Krelman?
+TOUR GUIDE:
+Of course. Most bee jobs are
+s"
+400,김주하 바보,,,,,,,
+401,한재이 바보,,,,,image,vid,졸려요!
+402,정주현 바보,,,,,,,
+403,전윤우 바보,,,,,,,물체의 운동에너지의 최댓값

@@ -3,7 +3,7 @@ from fuzzywuzzy import process
 import pandas as pd
 
 
-df = pd.read_csv(r'D:\Python\DT\apps\minimalApp\laboratory_equipment.csv')
+df = pd.read_csv('apps\minimalApp\laboratory_equipment.csv')
 history = {}
 app = Flask(__name__)
 
